@@ -1,11 +1,38 @@
 baseURL = 'https://puthujjana.github.io/theragatha/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Therāgātha'
 theme = "hugo-book"
+
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
   BookToC = true
   BookMenuBundle = '/menu'
-  BookSection = 'docs'
+  BookSection = '*'
   BookRepo = ''
   BookSearch = false
+  tocLevels = 2 # show only ## and ### headings
+  showMainMenu = true
+  
+
+
+[[menu.main]]
+identifier = "chapter_one"
+name = "Chapter One"
+url = "/theragatha/chapter_one/"
+weight = 1
+
+[[menu.main]]
+identifier = "chapter_two"
+name = "Chapter Two"
+url = "/theragatha/chapter_two/"
+weight = 2
+
+[[menu.main]]
+identifier = "chapter_three"
+name = "Chapter Three"
+url = "/theragatha/chapter_three/"
+weight = 3
+
+
+
