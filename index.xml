@@ -1,17 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theragāthā on Therāgātha</title><link>https://puthujjana.github.io/theragatha/</link><description>Recent content in Theragāthā on Therāgātha</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://puthujjana.github.io/theragatha/index.xml" rel="self" type="application/rss+xml"/><item><title>Chapter One</title><link>https://puthujjana.github.io/theragatha/theragatha/chapter_one/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://puthujjana.github.io/theragatha/theragatha/chapter_one/</guid><description>&lt;h1 id="chapter-one"&gt;Chapter One&lt;a class="anchor" href="#chapter-one"&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id="11-subhūti"&gt;1.1 Subhūti&lt;a class="anchor" href="#11-subh%c5%abti"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;
-Sheltered from the wind:&lt;br&gt;
-So rain, sky, as you please!&lt;br&gt;
-My mind is serene and freed,&lt;br&gt;
-I practice whole-heartedly: so rain, sky!&lt;/p&gt;
-&lt;h2 id="12-mahākoṭṭhika"&gt;1.2 Mahākoṭṭhika&lt;a class="anchor" href="#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Calm and quiet,
-Wise in counsel and steady;
-Shaking off bad qualities,
-As the wind shakes leaves off a tree.&lt;/p&gt;
-&lt;h2 id="13-kaṅkhārevata"&gt;1.3 Kaṅkhārevata&lt;a class="anchor" href="#13-ka%e1%b9%85kh%c4%81revata"&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;See this wisdom of the Tathāgatas!
-Like a fire blazing in the night,
-Giving light, giving vision,
-Dispelling the doubt of those who’ve come here.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theragāthā on Therāgātha</title>
+    <link>http://localhost:1313/theragatha/</link>
+    <description>Recent content in Theragāthā on Therāgātha</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/theragatha/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter One</title>
+      <link>http://localhost:1313/theragatha/theragatha/chapter_one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/theragatha/theragatha/chapter_one/</guid>
+      <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;12-mahākoṭṭhika&#34;&gt;1.2 Mahākoṭṭhika&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Calm and quiet,&#xA;Wise in counsel and steady;&#xA;Shaking off bad qualities,&#xA;As the wind shakes leaves off a tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;13-kaṅkhārevata&#34;&gt;1.3 Kaṅkhārevata&lt;a class=&#34;anchor&#34; href=&#34;#13-ka%e1%b9%85kh%c4%81revata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;See this wisdom of the Tathāgatas!&#xA;Like a fire blazing in the night,&#xA;Giving light, giving vision,&#xA;Dispelling the doubt of those who’ve come here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
