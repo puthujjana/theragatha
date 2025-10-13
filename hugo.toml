@@ -15,6 +15,13 @@ ignoreLogs = ['warning-goldmark-raw-html']
   tocLevels = 2 # show only ## and ### headings
   showMainMenu = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser]
+      attribute = true
+
 [languages]
   [languages.en]
     languageName = "English"
