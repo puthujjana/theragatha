@@ -2,7 +2,8 @@ baseURL = 'https://puthujjana.github.io/theragatha/'
 languageCode = 'en-us'
 title = 'Therāgātha'
 theme = "hugo-book"
-
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [params]
@@ -13,26 +14,20 @@ ignoreLogs = ['warning-goldmark-raw-html']
   BookSearch = false
   tocLevels = 2 # show only ## and ### headings
   showMainMenu = true
-  
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    contentDir = "content/en"
+    title = "Theragāthā"
 
-[[menu.main]]
-identifier = "chapter_one"
-name = "Chapter One"
-url = "/theragatha/chapter_one/"
-weight = 1
+  [languages.es]
+    languageName = "Español"
+    weight = 2
+    contentDir = "content/es"
+    title = "Theragāthā"
 
-[[menu.main]]
-identifier = "chapter_two"
-name = "Chapter Two"
-url = "/theragatha/chapter_two/"
-weight = 2
-
-[[menu.main]]
-identifier = "chapter_three"
-name = "Chapter Three"
-url = "/theragatha/chapter_three/"
-weight = 3
 
 
 

@@ -5,6 +5,8 @@ toc: true
 
 # Chapter One
 
+Translation by Bhikkhu Sujato.
+
 ## 1.1 Subhūti
 My little hut is roofed and pleasant,  
 Sheltered from the wind:  
