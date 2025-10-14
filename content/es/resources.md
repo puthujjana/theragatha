@@ -1,5 +1,5 @@
 ---
-title: "Recursos"
+title: "→ Recursos"
 url: "/recursos/"
 slug: "recursos"
 bookHidden: false
