@@ -1,5 +1,8 @@
 ---
 title: "Recursos"
+url: "/recursos/"
+slug: "recursos"
+bookHidden: false
 weight: 10
 ---
 

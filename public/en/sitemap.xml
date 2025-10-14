@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/theragatha/en/theragatha/chapter_one/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://localhost:1313/theragatha/es/capitulo_uno/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/theragatha/en/theragatha/chapter_one/"
+                />
+  </url><url>
     <loc>http://localhost:1313/theragatha/en/theragatha/</loc>
     <xhtml:link
                 rel="alternate"
@@ -14,16 +26,20 @@
                 href="http://localhost:1313/theragatha/en/theragatha/"
                 />
   </url><url>
-    <loc>http://localhost:1313/theragatha/en/resources/</loc>
+    <loc>http://localhost:1313/theragatha/en/theragatha/chapter_two/</loc>
+  </url><url>
+    <loc>http://localhost:1313/theragatha/en/theragatha/chapter_three/</loc>
+  </url><url>
+    <loc>http://localhost:1313/theragatha/resources/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/theragatha/es/resources/"
+                href="http://localhost:1313/theragatha/recursos/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/theragatha/en/resources/"
+                href="http://localhost:1313/theragatha/resources/"
                 />
   </url><url>
     <loc>http://localhost:1313/theragatha/en/categories/</loc>
@@ -36,18 +52,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/theragatha/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/theragatha/en/theragatha/chapter_one/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/theragatha/es/capitulo_uno/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/theragatha/en/theragatha/chapter_one/"
                 />
   </url><url>
     <loc>http://localhost:1313/theragatha/en/tags/</loc>

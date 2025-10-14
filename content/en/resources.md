@@ -1,5 +1,7 @@
 ---
-title: "Resources"
+title: "→ Resources"
+url: "/resources/"
+bookHidden: false
 weight: 10
 ---
 
