@@ -7,7 +7,7 @@ menu: main
 weight: 1
 ---
 
-# Therāgāthā: The Verses of the Senior Monks
+# Theragāthā: The Verses of the Senior Monks
 
 [Chapter One](chapter_one/)
 

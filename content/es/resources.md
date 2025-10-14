@@ -7,7 +7,7 @@ weight: 10
 
 ## Pāli Original
 
-- <a href="https://gretil.sub.uni-goettingen.de/gretil/2_pali/1_tipit/2_sut/5_khudd/theragou.htm" target="_blank" rel="noopener noreferrer">PTS Edición Pāli de la Theragāthā</a>
+- <a href="https://gretil.sub.uni-goettingen.de/gretil/2_pali/1_tipit/2_sut/5_khudd/theragou.htm" target="_blank" rel="noopener noreferrer">PTS Edición Pāli del Theragāthā</a>
 - <a href="https://gretil.sub.uni-goettingen.de/gretil/2_pali/1_tipit/2_sut/5_khudd/therigou.htm" target="_blank" rel="noopener noreferrer">PTS Edición Pāli de la Therīgāthā</a>
 
 ## Traducciònes
