@@ -38,6 +38,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
 [menu]
 
   [[menu.after]]
-  name = "{{ i18n \"report-error\" }}"
+  name = "Report Error"
   url = "https://forms.gle/hnsM4pMcEHzHVeKa9"
   weight = 999
