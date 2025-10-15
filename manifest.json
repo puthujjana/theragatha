@@ -1,14 +1,14 @@
 {
   "name": "Theragāthā",
   "short_name": "Theragāthā",
-  "start_url": "/theragatha/",
-  "scope": "/theragatha/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/theragatha/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
