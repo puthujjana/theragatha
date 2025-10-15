@@ -24,5 +24,6 @@ weight: 10
 - <a href="https://www.dhammatalks.org/Archive/Writings/Ebooks/TheragathaTherigatha210221.pdf" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology</a>
 
 ## Articles
+
 - <a href="https://zmm.org/wp-content/uploads/2018/08/Reading-Therigatha.pdf" target="_blank" rel="noopener noreferrer">An Aricle on Reading the Therīgāthā</a>
 - <a href="https://en.wikipedia.org/wiki/Theragatha" target="_blank" rel="noopener noreferrer">Wikipedia Overview</a>

@@ -1,4 +1,4 @@
-baseURL = 'https://puthujjana.github.io/theragatha/'
+baseURL = 'https://theragatha.github.io'
 languageCode = 'en-us'
 title = 'Therāgātha'
 theme = "hugo-book"
