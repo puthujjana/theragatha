@@ -5,7 +5,7 @@ weight: 3
 
 # Chapter Three
 
-*Translated by Bhikkhu Sujato*
+*Translated by Bhikkhu Sujato.*
 
 ## 3.1 Aṅgaṇikabhāradvāja  
 Seeking purity the wrong way,  
