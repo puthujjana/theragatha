@@ -1,5 +1,5 @@
 ---
-title: "Chapter Nine:
+title: "Chapter Nine"
 weight: 9
 ---
 
