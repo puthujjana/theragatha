@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Theragāthā</title>
-    <link>http://localhost:1313/theragatha/es/theragatha/</link>
+    <link>http://localhost:1313/es/theragatha/</link>
     <description>Recent content on Theragāthā</description>
     <generator>Hugo</generator>
     <language>es</language>
-    <atom:link href="http://localhost:1313/theragatha/es/theragatha/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/es/theragatha/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capítulo Uno</title>
-      <link>http://localhost:1313/theragatha/es/capitulo_uno/</link>
+      <link>http://localhost:1313/es/capitulo_uno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/theragatha/es/capitulo_uno/</guid>
+      <guid>http://localhost:1313/es/capitulo_uno/</guid>
       <description>&lt;h1 id=&#34;capítulo-uno&#34;&gt;Capítulo Uno&lt;a class=&#34;anchor&#34; href=&#34;#cap%c3%adtulo-uno&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Siga adelante la lluvia del deva y llueva.&lt;br&gt;&#xA;Mi pequeña cabaña está techada, es confortable,&lt;br&gt;&#xA;Libre de corrientes del aire.&lt;br&gt;&#xA;Siga adelante la lluvia del deva y llueva,&lt;br&gt;&#xA;Mi mente está bien concentrada y liberada,&lt;br&gt;&#xA;Permanece fervorosa.&lt;br&gt;&#xA;Siga adelante la lluvia del deva y llueva.&lt;/p&gt;</description>
     </item>
   </channel>
