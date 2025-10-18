@@ -6,32 +6,32 @@ title: "Theragāthā"
 
 Welcome to **Theragatha.com**, a resource for the *Theragāthā* and the *Therīgāthā*, the ancient Pāli collections of verses attributed to the earliest Buddhist monks and nuns.
 
-[Chapter One](chapter_one/)
+[Chapter One](theragatha/chapter_one/)
 
-[Chapter Two](chapter_two/)
+[Chapter Two](theragatha/chapter_two/)
 
-[Chapter Three](chapter_three/)
+[Chapter Three](theragatha/chapter_three/)
 
-[Chapter Four](chapter_four/)
+[Chapter Four](theragatha/chapter_four/)
 
-[Chapter Five](chapter_five/)
+[Chapter Five](theragatha/chapter_five/)
 
-[Chapter Six](chapter_six/)
+[Chapter Six](theragatha/chapter_six/)
 
-[Chapter Seven](chapter_seven/)
+[Chapter Seven](theragatha/chapter_seven/)
 
-[Chapter Eight](chapter_eight/)
+[Chapter Eight](theragatha/chapter_eight/)
 
-[Chapter Nine](chapter_nine/)
+[Chapter Nine](theragatha/chapter_nine/)
 
-[Chapter Ten](chapter_ten/)
+[Chapter Ten](theragatha/chapter_ten/)
 
-[Chapter Eleven](chapter_eleven/)
+[Chapter Eleven](theragatha/chapter_eleven/)
 
-[Chapter Twelve](chapter_twelve/)
+[Chapter Twelve](theragatha/chapter_twelve/)
 
-[Chapter Thirteen](chapter_thirteen/)
+[Chapter Thirteen](theragatha/chapter_thirteen/)
 
-[Chapter Fourteen](chapter_fourteen/)
+[Chapter Fourteen](theragatha/chapter_fourteen/)
 
-[Chapter Fifteen](chapter_fifteen/)
+[Chapter Fifteen](theragatha/chapter_fifteen/)
