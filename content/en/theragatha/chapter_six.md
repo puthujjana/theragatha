@@ -3,7 +3,7 @@ title: "Chapter Six"
 weight: 6
 ---
 
-# Chapter 6
+# Chapter Sixteen
 
 *Translated by Bhikkhu Sujato.*
 
