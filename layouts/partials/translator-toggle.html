@@ -1,0 +1,29 @@
+{{ $currentPath := .RelPermalink }}
+{{ $otherTranslator := "" }}
+{{ $buttonText := "" }}
+{{ $targetPath := "" }}
+
+{{ if in $currentPath "/sujato/" }}
+  {{ $otherTranslator = "thanissaro" }}
+  {{ $buttonText = "Switch to Ṭhānissaro Bhikkhu" }}
+{{ else if in $currentPath "/thanissaro/" }}
+  {{ $otherTranslator = "sujato" }}
+  {{ $buttonText = "Switch to Bhikkhu Sujato" }}
+{{ end }}
+
+{{ if $otherTranslator }}
+  {{/* Replace the current translator segment with the other */}}
+  {{ $targetPath = replace $currentPath (print "/" (cond (in $currentPath "/sujato/") "sujato" "thanissaro") "/") (print "/" $otherTranslator "/") }}
+  
+  <div style="position: relative;">
+    <div class="translator-switcher"
+         style="position: absolute; right: 0; top: 0; margin: 0.25rem 0;">
+      <a href="{{ $targetPath }}"
+         class="book-btn"
+         style="padding: 0.25rem 0.75rem; border: 1px solid var(--color-border);
+                border-radius: 0.5rem; text-decoration: none;">
+        {{ $buttonText }}
+      </a>
+    </div>
+  </div>
+{{ end }}

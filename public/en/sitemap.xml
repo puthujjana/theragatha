@@ -2,17 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/theragatha/chapter_one/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/capitulo_uno/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/theragatha/chapter_one/"
-                />
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_one/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter_one/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/</loc>
     <xhtml:link
@@ -26,21 +18,23 @@
                 href="http://localhost:1313/en/theragatha/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_two/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_two/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_three/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_three/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_four/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_four/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_five/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_five/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_six/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_six/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_seven/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_seven/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_eight/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_eight/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_nine/</loc>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter_eight/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_nine/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
     <xhtml:link
@@ -54,19 +48,29 @@
                 href="http://localhost:1313/resources/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_ten/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_ten/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_eleven/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_eleven/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_twelve/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_twelve/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_thirteen/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_thirteen/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_fourteen/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_fourteen/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_fifteen/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_fifteen/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/chapter_sixteen/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_sixteen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_seventeen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_eighteen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_nineteen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_twenty/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter_twenty_one/</loc>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <xhtml:link

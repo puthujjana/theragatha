@@ -14,6 +14,12 @@ ignoreLogs = ['warning-goldmark-raw-html']
   BookSearch = false
   tocLevels = 2 # show only ## and ### headings
   showMainMenu = true
+  [[params.translators]]
+    name = "Bhikkhu Sujato"
+    key = "sujato"
+  [[params.translators]]
+    name = "Ṭhānissaro Bhikkhu"
+    key = "thanissaro"
 
 [markup]
   [markup.goldmark]

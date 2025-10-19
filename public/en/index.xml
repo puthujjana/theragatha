@@ -9,65 +9,79 @@
     <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter One</title>
-      <link>http://localhost:1313/en/theragatha/chapter_one/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_one/</guid>
-      <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;12-mahākoṭṭhika&#34;&gt;1.2 Mahākoṭṭhika&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Calm and quiet,&lt;br&gt;&#xA;Wise in counsel and steady;&lt;br&gt;&#xA;Shaking off bad qualities,&lt;br&gt;&#xA;As the wind shakes leaves off a tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;13-kaṅkhārevata&#34;&gt;1.3 Kaṅkhārevata&lt;a class=&#34;anchor&#34; href=&#34;#13-ka%e1%b9%85kh%c4%81revata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;See this wisdom of the Tathāgatas!&lt;br&gt;&#xA;Like a fire blazing in the night,&lt;br&gt;&#xA;Giving light, giving vision,&lt;br&gt;&#xA;Dispelling the doubt of those who’ve come here.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_one/</guid>
+      <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;&#xA;  &lt;div class=&#34;pali-text&#34;&#xA;       style=&#34;border-left:3px solid var(--color-border);&#xA;              padding-left:1rem; margin-bottom:1.5rem;&#34;&gt;&#xA;    &lt;h3 style=&#34;margin-top:0;&#34;&gt;Pāḷi Text&lt;/h3&gt;&#xA;    &lt;p&gt;&amp;ldquo;channā me kuṭikā sukhā nivātā,&lt;br&gt;&#xA;vassa deva yathāsukhaṃ,&lt;br&gt;&#xA;cittaṃ me susamāhitaṃ vimuttaṃ,&#xA;ātāpī viharāmi vassa devā&amp;quot;ti.&lt;br&gt;&#xA;itthaṃ sudaṃ āyasmā subhūtitthero gāthaṃ abhāsitthāti.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;upasanto uparato,&lt;br&gt;&#xA;mantabhāṇī anuddhato,&lt;br&gt;&#xA;dhunāti pāpake dhamme,&lt;br&gt;&#xA;dumapattaṃva māluto&amp;quot;ti.&lt;br&gt;&#xA;itthaṃ sudaṃ āyasmā mahākoṭṭhiko thero gāthaṃ abhāsitthāti.&lt;/p&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter One</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter_one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter_one/</guid>
+      <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Ṭhānissaro Bhikkhu.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;testing&lt;/p&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;12-mahākoṭṭhika&#34;&gt;1.2 Mahākoṭṭhika&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Calm and quiet,&lt;br&gt;&#xA;Wise in counsel and steady;&lt;br&gt;&#xA;Shaking off bad qualities,&lt;br&gt;&#xA;As the wind shakes leaves off a tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;13-kaṅkhārevata&#34;&gt;1.3 Kaṅkhārevata&lt;a class=&#34;anchor&#34; href=&#34;#13-ka%e1%b9%85kh%c4%81revata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;See this wisdom of the Tathāgatas!&lt;br&gt;&#xA;Like a fire blazing in the night,&lt;br&gt;&#xA;Giving light, giving vision,&lt;br&gt;&#xA;Dispelling the doubt of those who’ve come here.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Two</title>
-      <link>http://localhost:1313/en/theragatha/chapter_two/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_two/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_two/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_two/</guid>
       <description>&lt;h1 id=&#34;chapter-two&#34;&gt;Chapter Two&lt;a class=&#34;anchor&#34; href=&#34;#chapter-two&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;21-uttara&#34;&gt;2.1 Uttara&lt;a class=&#34;anchor&#34; href=&#34;#21-uttara&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;No life is permanent,&lt;br&gt;&#xA;And no conditions last forever.&lt;br&gt;&#xA;The aggregates are reborn&lt;br&gt;&#xA;And pass away, again and again.&lt;/p&gt;&#xA;&lt;p&gt;Knowing this danger,&lt;br&gt;&#xA;I’m not interested in being reborn&lt;br&gt;&#xA;Into any state of existence.&lt;br&gt;&#xA;I’ve escaped all sensual pleasures,&lt;br&gt;&#xA;And attained the end of defilements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;22-piṇḍolabhāradvāja&#34;&gt;2.2 Piṇḍolabhāradvāja&lt;a class=&#34;anchor&#34; href=&#34;#22-pi%e1%b9%87%e1%b8%8dolabh%c4%81radv%c4%81ja&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can’t live by fasting,&lt;br&gt;&#xA;But food doesn’t lead to peace of heart.&lt;br&gt;&#xA;Seeing how the body is sustained by food,&lt;br&gt;&#xA;I wander, seeking.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Three</title>
-      <link>http://localhost:1313/en/theragatha/chapter_three/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_three/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_three/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_three/</guid>
       <description>&lt;h1 id=&#34;chapter-three&#34;&gt;Chapter Three&lt;a class=&#34;anchor&#34; href=&#34;#chapter-three&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;31-aṅgaṇikabhāradvāja&#34;&gt;3.1 Aṅgaṇikabhāradvāja&lt;a class=&#34;anchor&#34; href=&#34;#31-a%e1%b9%85ga%e1%b9%87ikabh%c4%81radv%c4%81ja&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Seeking purity the wrong way,&lt;br&gt;&#xA;I worshipped the sacred fire in a grove.&lt;br&gt;&#xA;Not knowing the path to purity,&lt;br&gt;&#xA;I mortified my flesh in search of immortality.&lt;br&gt;&#xA;I’ve gained this happiness by means of happiness:&lt;br&gt;&#xA;See the excellence of the Dhamma!&lt;br&gt;&#xA;I’ve attained the three knowledges,&lt;br&gt;&#xA;And fulfilled the Buddha’s instructions.&lt;br&gt;&#xA;In the past I was related to Brahmā,&lt;br&gt;&#xA;But now I’m really a brahmin:&lt;br&gt;&#xA;I have the three knowledges, I’m cleansed,&lt;br&gt;&#xA;I’m an initiate,&lt;br&gt;&#xA;And I’m accomplished in sacred knowledge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Four</title>
-      <link>http://localhost:1313/en/theragatha/chapter_four/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_four/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_four/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_four/</guid>
       <description>&lt;h1 id=&#34;chapter-four&#34;&gt;Chapter Four&lt;a class=&#34;anchor&#34; href=&#34;#chapter-four&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;41-nāgasamāla&#34;&gt;4.1 Nāgasamāla&lt;a class=&#34;anchor&#34; href=&#34;#41-n%c4%81gasam%c4%81la&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;There’s a dancer along the highway,&lt;br&gt;&#xA;Dancing as the music plays;&lt;br&gt;&#xA;She’s adorned with jewellery and all dressed up,&lt;br&gt;&#xA;With a garland of flowers&lt;br&gt;&#xA;And perfume of sandalwood.&lt;/p&gt;&#xA;&lt;p&gt;I entered for alms,&lt;br&gt;&#xA;And while going along I glanced at her,&lt;br&gt;&#xA;Adorned with jewellery and all dressed up,&lt;br&gt;&#xA;Like a snare of death laid down.&lt;/p&gt;&#xA;&lt;p&gt;Then the realization&lt;br&gt;&#xA;Came upon me—&lt;br&gt;&#xA;The danger became clear,&lt;br&gt;&#xA;And I was firmly repulsed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Five</title>
-      <link>http://localhost:1313/en/theragatha/chapter_five/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_five/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_five/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_five/</guid>
       <description>&lt;h1 id=&#34;chapter-5&#34;&gt;Chapter 5&lt;a class=&#34;anchor&#34; href=&#34;#chapter-5&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;51-rājadatta&#34;&gt;5.1 Rājadatta&lt;a class=&#34;anchor&#34; href=&#34;#51-r%c4%81jadatta&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;I, a monk, went to a charnel ground&lt;br&gt;&#xA;And saw a woman left there,&lt;br&gt;&#xA;Discarded in a cemetery,&lt;br&gt;&#xA;Full of worms that devoured her.&lt;/p&gt;&#xA;&lt;p&gt;Some men were disgusted,&lt;br&gt;&#xA;Seeing her dead and rotten;&lt;br&gt;&#xA;But sexual desire arose in me,&lt;br&gt;&#xA;I was as if blind to her oozing body.&lt;/p&gt;&#xA;&lt;p&gt;Quicker than the boiling of rice&lt;br&gt;&#xA;I left that place,&lt;br&gt;&#xA;Mindful and aware,&lt;br&gt;&#xA;I sat down to one side.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Six</title>
-      <link>http://localhost:1313/en/theragatha/chapter_six/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_six/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_six/</guid>
-      <description>&lt;h1 id=&#34;chapter-6&#34;&gt;Chapter 6&lt;a class=&#34;anchor&#34; href=&#34;#chapter-6&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;61-uruveḷakassapa&#34;&gt;6.1 Uruveḷakassapa&lt;a class=&#34;anchor&#34; href=&#34;#61-uruve%e1%b8%b7akassapa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When I saw the marvels&lt;br&gt;&#xA;Of the renowned Gotama,&lt;br&gt;&#xA;I didn’t immediately bow to him;&lt;br&gt;&#xA;I was blinded by jealousy and conceit.&lt;/p&gt;&#xA;&lt;p&gt;Knowing what I was thinking,&lt;br&gt;&#xA;The trainer of men spurred me on;&lt;br&gt;&#xA;And I was struck with a marvellous inspiration,&lt;br&gt;&#xA;That gave me goose-bumps.&lt;/p&gt;&#xA;&lt;p&gt;Rejecting my petty accomplishments&lt;br&gt;&#xA;When I used to be a matted-hair ascetic,&lt;br&gt;&#xA;I then went forth,&lt;br&gt;&#xA;In the conqueror’s teaching.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_six/</guid>
+      <description>&lt;h1 id=&#34;chapter-sixteen&#34;&gt;Chapter Sixteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-sixteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;61-uruveḷakassapa&#34;&gt;6.1 Uruveḷakassapa&lt;a class=&#34;anchor&#34; href=&#34;#61-uruve%e1%b8%b7akassapa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When I saw the marvels&lt;br&gt;&#xA;Of the renowned Gotama,&lt;br&gt;&#xA;I didn’t immediately bow to him;&lt;br&gt;&#xA;I was blinded by jealousy and conceit.&lt;/p&gt;&#xA;&lt;p&gt;Knowing what I was thinking,&lt;br&gt;&#xA;The trainer of men spurred me on;&lt;br&gt;&#xA;And I was struck with a marvellous inspiration,&lt;br&gt;&#xA;That gave me goose-bumps.&lt;/p&gt;&#xA;&lt;p&gt;Rejecting my petty accomplishments&lt;br&gt;&#xA;When I used to be a matted-hair ascetic,&lt;br&gt;&#xA;I then went forth,&lt;br&gt;&#xA;In the conqueror’s teaching.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Seven</title>
-      <link>http://localhost:1313/en/theragatha/chapter_seven/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_seven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_seven/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_seven/</guid>
       <description>&lt;h1 id=&#34;chapter-seven&#34;&gt;Chapter Seven&lt;a class=&#34;anchor&#34; href=&#34;#chapter-seven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;71-sundarasamudda&#34;&gt;7.1 Sundarasamudda&lt;a class=&#34;anchor&#34; href=&#34;#71-sundarasamudda&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;She was adorned with jewellery and all dressed up,&lt;br&gt;&#xA;With a garland of flowers&lt;br&gt;&#xA;And perfume of sandalwood,&lt;br&gt;&#xA;Her feet brightly rouged:&lt;br&gt;&#xA;A courtesan wearing slippers.&lt;/p&gt;&#xA;&lt;p&gt;She took off her slippers in front of me,&lt;br&gt;&#xA;Her hands in añjalī,&lt;br&gt;&#xA;And softly and sweetly&lt;br&gt;&#xA;She spoke to me, smiling:&lt;/p&gt;&#xA;&lt;p&gt;“You’re too young to have gone forth;&lt;br&gt;&#xA;Come, stay in my teaching!&lt;br&gt;&#xA;Enjoy human sensual pleasures,&lt;br&gt;&#xA;I’ll give you riches.&lt;br&gt;&#xA;I promise this is the truth—&lt;br&gt;&#xA;I’ll swear by the Sacred Flame.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Eight</title>
-      <link>http://localhost:1313/en/theragatha/chapter_eight/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_eight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_eight/</guid>
-      <description>&lt;h1 id=&#34;chapter-eight&#34;&gt;Chapter Eight&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eight&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;81-mahākaccāyana&#34;&gt;8.1 Mahākaccāyana&lt;a class=&#34;anchor&#34; href=&#34;#81-mah%c4%81kacc%c4%81yana&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Don’t get involved in lots of work,&lt;br&gt;&#xA;Avoid people, and don’t try to get more requisites.&lt;br&gt;&#xA;If you’re eager and greedy for flavours,&lt;br&gt;&#xA;You’ll miss the goal that brings such happiness.&lt;/p&gt;&#xA;&lt;p&gt;They know that this really is a bog,&lt;br&gt;&#xA;This homage and veneration&lt;br&gt;&#xA;Among respectable families.&lt;br&gt;&#xA;Honor is a subtle dart, hard to extract,&lt;br&gt;&#xA;And hard for a bad man to give up.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_eight/</guid>
+      <description>&lt;h1 id=&#34;chapter-eight&#34;&gt;Chapter Eight&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eight&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;&#xA;  &lt;div class=&#34;pali-text&#34;&#xA;       style=&#34;border-left:3px solid var(--color-border);&#xA;              padding-left:1rem; margin-bottom:1.5rem;&#34;&gt;&#xA;    &lt;h3 style=&#34;margin-top:0;&#34;&gt;Pāḷi Text&lt;/h3&gt;&#xA;    &lt;p&gt;&amp;ldquo;channā me kuṭikā sukhā nivātā,&lt;br&gt;&#xA;vassa deva yathāsukhaṃ,&lt;br&gt;&#xA;cittaṃ me susamāhitaṃ vimuttaṃ,&#xA;ātāpī viharāmi vassa devā&amp;quot;ti.&lt;br&gt;&#xA;itthaṃ sudaṃ āyasmā subhūtitthero gāthaṃ abhāsitthāti.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;upasanto uparato,&lt;br&gt;&#xA;mantabhāṇī anuddhato,&lt;br&gt;&#xA;dhunāti pāpake dhamme,&lt;br&gt;&#xA;dumapattaṃva māluto&amp;quot;ti.&lt;br&gt;&#xA;itthaṃ sudaṃ āyasmā mahākoṭṭhiko thero gāthaṃ abhāsitthāti.&lt;/p&gt;&#xA;&#xA;  &lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;81-mahākaccāyana&#34;&gt;8.1 Mahākaccāyana&lt;a class=&#34;anchor&#34; href=&#34;#81-mah%c4%81kacc%c4%81yana&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Don’t get involved in lots of work,&lt;br&gt;&#xA;Avoid people, and don’t try to get more requisites.&lt;br&gt;&#xA;If you’re eager and greedy for flavours,&lt;br&gt;&#xA;You’ll miss the goal that brings such happiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Eight</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter_eight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter_eight/</guid>
+      <description>&lt;h1 id=&#34;chapter-eight&#34;&gt;Chapter Eight&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eight&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Ṭhānissaro Bhikkhu or Tan Ajaan Geoff.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;81-mahākaccāyana&#34;&gt;8.1 Mahākaccāyana&lt;a class=&#34;anchor&#34; href=&#34;#81-mah%c4%81kacc%c4%81yana&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;One should not do much work&#xA;One should avoid people,&#xA;One should not bustle (to obtain gifts).&#xA;One who is eager and greedy for flavors&#xA;Misses the goal that entails happiness.&lt;/p&gt;&#xA;&lt;p&gt;They knew as a bog this homage and veneration&#xA;Obtained among devoted families.&#xA;A subtle dart, difficult to extract,&#xA;Honor is hard for a vile man to discard.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Nine</title>
-      <link>http://localhost:1313/en/theragatha/chapter_nine/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_nine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_nine/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_nine/</guid>
       <description>&lt;h1 id=&#34;chapter-nine&#34;&gt;Chapter Nine&lt;a class=&#34;anchor&#34; href=&#34;#chapter-nine&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;91-bhūta&#34;&gt;9.1 Bhūta&lt;a class=&#34;anchor&#34; href=&#34;#91-bh%c5%abta&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When a wise person fully understands&lt;br&gt;&#xA;That old age and death—&lt;br&gt;&#xA;To which an ignorant unawakened person is bound—&lt;br&gt;&#xA;Are suffering; and they are mindful, practising jhāna:&lt;br&gt;&#xA;There is no greater pleasure than this.&lt;/p&gt;&#xA;&lt;p&gt;When attachment, the carrier of suffering,&lt;br&gt;&#xA;And craving, the carrier of the suffering&lt;br&gt;&#xA;Of this mass of proliferation,&lt;br&gt;&#xA;Are destroyed; and they are mindful, practising jhāna:&lt;br&gt;&#xA;There is no greater pleasure than this.&lt;/p&gt;</description>
     </item>
     <item>
@@ -79,52 +93,87 @@
     </item>
     <item>
       <title>Chapter Ten</title>
-      <link>http://localhost:1313/en/theragatha/chapter_ten/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_ten/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_ten/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_ten/</guid>
       <description>&lt;h1 id=&#34;chapter-ten&#34;&gt;Chapter Ten&lt;a class=&#34;anchor&#34; href=&#34;#chapter-ten&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;101-kāḷudāyi&#34;&gt;10.1 Kāḷudāyi&lt;a class=&#34;anchor&#34; href=&#34;#101-k%c4%81%e1%b8%b7ud%c4%81yi&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“The trees are now crimson, venerable sir,&lt;br&gt;&#xA;They’ve shed their foliage, and are ready to fruit.&lt;br&gt;&#xA;They’re splendid, as if on fire;&lt;br&gt;&#xA;Great hero, this period is full of flavour.&lt;/p&gt;&#xA;&lt;p&gt;The blossoming trees are delightful,&lt;br&gt;&#xA;Wafting their scent all around, in all directions,&lt;br&gt;&#xA;They’ve shed their leaves and wish to fruit,&lt;br&gt;&#xA;Hero, it is time to depart from here.&lt;/p&gt;&#xA;&lt;p&gt;It is neither too hot nor too cold,&lt;br&gt;&#xA;Venerable sir, it’s a pleasant season for travelling.&lt;br&gt;&#xA;Let the Sākiyas and Koḷiyas see you,&lt;br&gt;&#xA;Facing west as you cross the Rohiṇī river.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Eleven</title>
-      <link>http://localhost:1313/en/theragatha/chapter_eleven/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_eleven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_eleven/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_eleven/</guid>
       <description>&lt;h1 id=&#34;chapter-eleven&#34;&gt;Chapter Eleven&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eleven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;111-saṅkicca&#34;&gt;11.1 Saṅkicca&lt;a class=&#34;anchor&#34; href=&#34;#111-sa%e1%b9%85kicca&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Like an ujjuhāna-bird in the rainy season,&lt;br&gt;&#xA;Child, is there benefit for you in the grove?&lt;br&gt;&#xA;The city of Verambhā is delightful for you—&lt;br&gt;&#xA;Seclusion is for meditators.”&lt;/p&gt;&#xA;&lt;p&gt;“Just as the wind in Verambhā&lt;br&gt;&#xA;Scatters the clouds during the rainy-season,&lt;br&gt;&#xA;So the city scatters&lt;br&gt;&#xA;My perceptions connected with seclusion.&lt;/p&gt;&#xA;&lt;p&gt;It’s all black and born of an egg—&lt;br&gt;&#xA;The crow that lives in the charnel ground&lt;br&gt;&#xA;Rouses my mindfulness,&lt;br&gt;&#xA;Based on dispassion for the body.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Twelve</title>
-      <link>http://localhost:1313/en/theragatha/chapter_twelve/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_twelve/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_twelve/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_twelve/</guid>
       <description>&lt;h1 id=&#34;chapter-twelve&#34;&gt;Chapter Twelve&lt;a class=&#34;anchor&#34; href=&#34;#chapter-twelve&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;121-sīlava&#34;&gt;12.1 Sīlava&lt;a class=&#34;anchor&#34; href=&#34;#121-s%c4%ablava&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;One should train just in virtue,&lt;br&gt;&#xA;For in this world, when virtue is&lt;br&gt;&#xA;Cultivated and well-trained,&lt;br&gt;&#xA;It provides all success.&lt;/p&gt;&#xA;&lt;p&gt;Desiring three kinds of happiness—&lt;br&gt;&#xA;Praise, prosperity,&lt;br&gt;&#xA;And to delight in heaven after passing away—&lt;br&gt;&#xA;The wise should protect virtue.&lt;/p&gt;&#xA;&lt;p&gt;The well-behaved have many friends,&lt;br&gt;&#xA;Because of their self-restraint.&lt;br&gt;&#xA;But one without virtue, of bad conduct,&lt;br&gt;&#xA;Drives away their friends.&lt;/p&gt;&#xA;&lt;p&gt;A person of bad behavior has&lt;br&gt;&#xA;Ill-repute and infamy.&lt;br&gt;&#xA;A person of virtue always has&lt;br&gt;&#xA;A good reputation, fame, and praise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Thirteen</title>
-      <link>http://localhost:1313/en/theragatha/chapter_thirteen/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_thirteen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_thirteen/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_thirteen/</guid>
       <description>&lt;h1 id=&#34;chapter-thirteen&#34;&gt;Chapter Thirteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-thirteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;131-soṇakoḷivisa&#34;&gt;13.1 Soṇakoḷivisa&lt;a class=&#34;anchor&#34; href=&#34;#131-so%e1%b9%87ako%e1%b8%b7ivisa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;He who was special in the kingdom,&lt;br&gt;&#xA;The attendant to the king of Aṅga,&lt;br&gt;&#xA;Today is special in the Dhamma—&lt;br&gt;&#xA;Soṇa has gone beyond suffering.&lt;/p&gt;&#xA;&lt;p&gt;Five should be cut off, five should be abandoned,&lt;br&gt;&#xA;Five should be developed further.&lt;br&gt;&#xA;A monk who has gone beyond&lt;br&gt;&#xA;Five attachments is called&lt;br&gt;&#xA;“One who has crossed the flood.”&lt;/p&gt;&#xA;&lt;p&gt;If a monk is insolent and negligent,&lt;br&gt;&#xA;Concerned only with externals,&lt;br&gt;&#xA;Their virtue, samādhi, and understanding&lt;br&gt;&#xA;Do not become fulfilled.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Fourteen</title>
-      <link>http://localhost:1313/en/theragatha/chapter_fourteen/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_fourteen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_fourteen/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_fourteen/</guid>
       <description>&lt;h1 id=&#34;chapter-fourteen&#34;&gt;Chapter Fourteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-fourteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;141-khadiravaniyarevata&#34;&gt;14.1 Khadiravaniyarevata&lt;a class=&#34;anchor&#34; href=&#34;#141-khadiravaniyarevata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Since I’ve gone forth&lt;br&gt;&#xA;From home life into homelessness,&lt;br&gt;&#xA;I’m not aware of any intention&lt;br&gt;&#xA;That is ignoble and hateful.&lt;/p&gt;&#xA;&lt;p&gt;“May these beings be killed!&lt;br&gt;&#xA;May they be slaughtered!&lt;br&gt;&#xA;May they suffer!”—&lt;br&gt;&#xA;I’m not aware of having any such intentions&lt;br&gt;&#xA;In all this long period of time.&lt;/p&gt;&#xA;&lt;p&gt;I have been aware of loving-kindness,&lt;br&gt;&#xA;Measureless and well-developed,&lt;br&gt;&#xA;Gradually built up,&lt;br&gt;&#xA;Just as the Buddha taught.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chapter Fifteen</title>
-      <link>http://localhost:1313/en/theragatha/chapter_fifteen/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_fifteen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_fifteen/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_fifteen/</guid>
       <description>&lt;h1 id=&#34;chapter-fifteen&#34;&gt;Chapter Fifteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-fifteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;151-aññāsikoṇḍañña&#34;&gt;15.1 Aññāsikoṇḍañña&lt;a class=&#34;anchor&#34; href=&#34;#151-a%c3%b1%c3%b1%c4%81siko%e1%b9%87%e1%b8%8da%c3%b1%c3%b1a&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“My confidence grew&lt;br&gt;&#xA;As I heard the Dhamma, so full of flavor.&lt;br&gt;&#xA;Dispassion was the Dhamma that was taught,&lt;br&gt;&#xA;Without any grasping at all.”&lt;/p&gt;&#xA;&lt;p&gt;“There are many pretty things&lt;br&gt;&#xA;In the circle of this earth;&lt;br&gt;&#xA;They disturb one’s thoughts, I believe,&lt;br&gt;&#xA;Beautiful, provoking lust.&lt;/p&gt;&#xA;&lt;p&gt;Just as a rain cloud would settle&lt;br&gt;&#xA;The dust blown up by the wind;&lt;br&gt;&#xA;So thoughts settle down&lt;br&gt;&#xA;When seen with understanding.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/en/theragatha/chapter_sixteen/</link>
+      <title>Chapter Sixteen</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_sixteen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/chapter_sixteen/</guid>
-      <description></description>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_sixteen/</guid>
+      <description>&lt;h1 id=&#34;chapter-sixteen&#34;&gt;Chapter Sixteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-sixteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;16.1 Adhimutta&#xA;705 “Those that we previously killed,&#xA;Whether for sacrifice or for wealth,&#xA;Without exception were afraid:&#xA;They trembled and squealed.&#xA;706 But you aren’t frightened;&#xA;Your appearance is becoming more calm:&#xA;Why don’t you cry out&#xA;In such a fearful situation?”&#xA;707 “There isn’t any mental suffering&#xA;For one without expectations, village chief.&#xA;All fears are left behind&#xA;By one whose fetters are ended.&#xA;708 When attachment to life is ended,&#xA;In this very life as it is,&#xA;There is no fear of death,&#xA;It is just like laying down a burden.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Seventeen</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_seventeen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_seventeen/</guid>
+      <description>&lt;h1 id=&#34;chapter-seventeen&#34;&gt;Chapter Seventeen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-seventeen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Eighteen</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_eighteen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_eighteen/</guid>
+      <description>&lt;h1 id=&#34;chapter-eighteen&#34;&gt;Chapter Eighteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eighteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Nineteen</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_nineteen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_nineteen/</guid>
+      <description>&lt;h1 id=&#34;chapter-nineteen&#34;&gt;Chapter Nineteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-nineteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Twenty</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_twenty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_twenty/</guid>
+      <description>&lt;h1 id=&#34;chapter-twenty&#34;&gt;Chapter Twenty&lt;a class=&#34;anchor&#34; href=&#34;#chapter-twenty&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter Twenty-One</title>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter_twenty_one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter_twenty_one/</guid>
+      <description>&lt;h1 id=&#34;chapter-twenty-one&#34;&gt;Chapter Twenty-One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-twenty-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

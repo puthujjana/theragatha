@@ -1,9 +1,12 @@
 ---
 title: "Chapter Eight"
+bookHidden: false
 weight: 8
 ---
 
 # Chapter Eight
+
+{{< pali "chapter_eight" >}}
 
 *Translated by Bhikkhu Sujato.*
 

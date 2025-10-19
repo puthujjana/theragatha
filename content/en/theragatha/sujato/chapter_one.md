@@ -5,6 +5,9 @@ weight: 1
 
 # Chapter One
 
+{{< pali "chapter_one" >}}
+
+
 *Translated by Bhikkhu Sujato.*
 
 ## 1.1 Subhūti  

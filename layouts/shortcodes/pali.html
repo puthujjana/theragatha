@@ -1,0 +1,22 @@
+{{/* shortcode usage: {{< pali "chapter_one" >}} */}}
+
+{{ $slug := .Get 0 }}
+{{ $path := printf "data/pali/theragatha/%s.md" $slug }}
+{{ $raw := readFile $path | default "" }}
+
+{{ if ne $raw "" }}
+  {{/* Remove YAML or TOML front matter (--- ... --- or +++ ... +++) */}}
+  {{ $clean := replaceRE `(?s)^(-{3}|\+{3}).*?(-{3}|\+{3})` "" $raw }}
+
+  <div class="pali-text"
+       style="border-left:3px solid var(--color-border);
+              padding-left:1rem; margin-bottom:1.5rem;">
+    <h3 style="margin-top:0;">Pāḷi Text</h3>
+    {{ $clean | markdownify }}
+  </div>
+{{ else }}
+  <div class="pali-text"
+       style="opacity:0.6; font-style:italic;">
+    Pāḷi version not yet available.
+  </div>
+{{ end }}
