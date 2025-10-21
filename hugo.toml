@@ -27,6 +27,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
       unsafe = true
     [markup.goldmark.parser]
       attribute = true
+    [markup.goldmark.extensions]
+      footnote = true
 
 [languages]
   [languages.en]

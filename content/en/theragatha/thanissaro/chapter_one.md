@@ -1,7 +1,6 @@
 ---
 title: "Chapter One"
 translator: "Ṭhānissaro Bhikkhu"
-translationKey: "thag-1"
 bookHidden: true
 weight: 1
 ---
@@ -9,8 +8,6 @@ weight: 1
 # Chapter One
 
 *Translated by Ṭhānissaro Bhikkhu.*
-
-testing
 
 ## 1.1 Subhūti  
 My little hut is roofed and pleasant,  
