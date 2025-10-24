@@ -5,7 +5,7 @@ weight: 18
 
 # Chapter Eighteen
 
-*Translated by Bhikkhu Sujato.*
+*Translation © Bhikkhu Sujato 2018, from [SuttaCentral.net](https://suttacentral.net), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ## 18.1 Mahākassapa
 

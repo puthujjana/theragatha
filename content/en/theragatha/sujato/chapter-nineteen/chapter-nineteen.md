@@ -5,7 +5,7 @@ weight: 19
 
 # Chapter Nineteen
 
-*Translated by Bhikkhu Sujato.*
+*Translation © Bhikkhu Sujato 2018, from [SuttaCentral.net](https://suttacentral.net), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ## 19.1 Tāḷapuṭa
 Oh, when will I stay in a mountain cave,
