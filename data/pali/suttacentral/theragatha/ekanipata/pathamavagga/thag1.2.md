@@ -8,16 +8,18 @@ collection: "Theragāthā"
 pali_source: "suttacentral"
 translator:
 weight: 1
-slug: "chapter_one_verse_two"
+slug: "thag1.2"
 bookHidden: true
 ---
 
 # 1.2 Mahākoṭṭhita
 
-“Upasanto uparato,
-mantabhāṇī anuddhato;
-Dhunāti pāpake dhamme,
-dumapattaṁva māluto”ti.
+“Upasanto uparato,  
+mantabhāṇī anuddhato;  
+Dhunāti pāpake dhamme,  
+dumapattaṁva māluto”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā mahākoṭṭhiko thero gāthaṁ abhāsitthāti.[^1]
 

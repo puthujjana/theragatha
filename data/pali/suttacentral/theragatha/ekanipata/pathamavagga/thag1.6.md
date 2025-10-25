@@ -14,10 +14,12 @@ bookHidden: true
 
 # 1.6 Sītavaniya
 
-“Yo sītavanaṁ upagā bhikkhu,
-Eko santusito samāhitatto;
-Vijitāvī apetalomahaṁso,
-Rakkhaṁ kāyagatāsatiṁ dhitimā”ti.
+“Yo sītavanaṁ upagā bhikkhu,  
+Eko santusito samāhitatto;  
+Vijitāvī apetalomahaṁso,  
+Rakkhaṁ kāyagatāsatiṁ dhitimā”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā sītavaniyo thero gāthaṁ abhāsitthāti.
 

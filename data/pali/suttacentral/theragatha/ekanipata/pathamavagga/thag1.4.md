@@ -14,12 +14,14 @@ bookHidden: true
 
 # 1.4 Puṇṇa
 
-“Sabbhireva samāsetha,
-paṇḍitehatthadassibhi;
-Atthaṁ mahantaṁ gambhīraṁ,
-duddasaṁ nipuṇaṁ aṇuṁ;
-Dhīrā samadhigacchanti,
-appamattā vicakkhaṇā”ti.
+“Sabbhireva samāsetha,  
+paṇḍitehatthadassibhi;  
+Atthaṁ mahantaṁ gambhīraṁ,  
+duddasaṁ nipuṇaṁ aṇuṁ;  
+Dhīrā samadhigacchanti,  
+appamattā vicakkhaṇā”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā puṇṇo mantāṇiputto thero gāthaṁ abhāsitthāti.[^1]
 

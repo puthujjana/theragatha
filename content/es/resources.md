@@ -15,4 +15,4 @@ weight: 10
 
 ## Traducciònes
 - <a href="https://www.bosquetheravada.org/blog/2008/05/13/theragatha-versos-de-los-venerables-monjes/" target="_blank" rel="noopener noreferrer">Una Traducciòn al Español por Bosque Theravādā</a>
-- <a href="https://www.amazon.com/THERIGATHA-Spanish-Javier-Aguado-ebook/dp/B01N7F7F7K" target="_blank" rel="noopener noreferrer">Una Traducciòn al Español por Javier Aguado</a>
+- <a href="https://www.amazon.com/THERIGATHA-Spanish-Javier-Aguado-ebook/dp/B01N7F7F7K" target="_blank" rel="noopener noreferrer">Una Traducciòn al Español de la Therīgāthā por Javier Aguado</a>

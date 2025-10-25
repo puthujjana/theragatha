@@ -14,10 +14,12 @@ bookHidden: true
 
 # 1.8 Vīra
 
-“Yo duddamiyo damena danto,
-Vīro santusito vitiṇṇakaṅkho;
-Vijitāvī apetalomahaṁso,
-Vīro so parinibbuto ṭhitatto”ti.
+“Yo duddamiyo damena danto,  
+Vīro santusito vitiṇṇakaṅkho;  
+Vijitāvī apetalomahaṁso,  
+Vīro so parinibbuto ṭhitatto”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā vīro thero gāthaṁ abhāsitthāti.
 

@@ -14,10 +14,12 @@ bookHidden: true
 
 # 1.7 Bhalliya
 
-“Yopānudī maccurājassa senaṁ,
-Naḷasetuṁva sudubbalaṁ mahogho;
-Vijitāvī apetabheravo hi,
-Danto so parinibbuto ṭhitatto”ti.
+“Yopānudī maccurājassa senaṁ,  
+Naḷasetuṁva sudubbalaṁ mahogho;  
+Vijitāvī apetabheravo hi,  
+Danto so parinibbuto ṭhitatto”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā bhalliyo thero gāthaṁ abhāsitthāti.
 

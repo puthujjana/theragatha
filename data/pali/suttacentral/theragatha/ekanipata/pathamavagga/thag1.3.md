@@ -14,9 +14,11 @@ bookHidden: true
 
 # 1.3 Kaṅkhārevata
 
-“Paññaṁ imaṁ passa tathāgatānaṁ,
-Aggi yathā pajjalito nisīthe;
-Ālokadā cakkhudadā bhavanti,
-Ye āgatānaṁ vinayanti kaṅkhan”ti.
+“Paññaṁ imaṁ passa tathāgatānaṁ,  
+Aggi yathā pajjalito nisīthe;  
+Ālokadā cakkhudadā bhavanti,  
+Ye āgatānaṁ vinayanti kaṅkhan”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā kaṅkhārevato thero gāthaṁ abhāsitthāti.

@@ -14,10 +14,12 @@ bookHidden: true
 
 # 1.9 Pilindavaccha[^1]
 
-“Svāgataṁ na durāgataṁ[^2], Variant: durāgataṁ → nāpagataṁ (sya1ed, sya2ed, pts1ed, pts2ed)
-Nayidaṁ dumantitaṁ mama[^3];
-Saṁvibhattesu dhammesu,
-Yaṁ seṭṭhaṁ tadupāgamin”ti.
+“Svāgataṁ na durāgataṁ[^2],  
+Nayidaṁ dumantitaṁ mama[^3];  
+Saṁvibhattesu dhammesu,  
+Yaṁ seṭṭhaṁ tadupāgamin”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā pilindavaccho thero gāthaṁ abhāsitthāti[^4].
 

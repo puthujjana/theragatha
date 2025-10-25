@@ -14,10 +14,12 @@ bookHidden: true
 
 # 1.5 Dabba
 
-“Yo duddamiyo damena danto,
-Dabbo santusito vitiṇṇakaṅkho;
-Vijitāvī apetabheravo hi,
-Dabbo so parinibbuto ṭhitatto”ti.
+“Yo duddamiyo damena danto,  
+Dabbo santusito vitiṇṇakaṅkho;  
+Vijitāvī apetabheravo hi,  
+Dabbo so parinibbuto ṭhitatto”ti.  
+
+## Attribution
 
 Itthaṁ sudaṁ āyasmā dabbo thero gāthaṁ abhāsitthāti.
 
