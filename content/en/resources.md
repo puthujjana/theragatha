@@ -21,8 +21,8 @@ weight: 10
 - <a href="https://www.hup.harvard.edu/books/9780674427730" target="_blank" rel="noopener noreferrer">Charle's Hallisey's Translation of the Therīgāthā</a>
 - <a href="https://api.learnbuddhism.org/files/internal/Bhikkhu-Mahinda-Therigatha-Edition-2.pdf" target="_blank" rel="noopener noreferrer">The 2nd Edition of Bhikkhu Mahinda's Translation of the Theragāthā</a>
 - <a href="https://ia802909.us.archive.org/13/items/theragathaelderversesnormank.r.palitextsociety_173_I/Thera%20Gatha%20%28Elder%20Verses%29%20%20Norman%20K.R.%20Pali%20Text%20Society.pdf" target="_blank" rel="noopener noreferrer">K.R. Norman's Translation of the Theragāthā</a>
-- <a href="https://www.dhammatalks.org/Archive/Writings/Ebooks/TheragathaTherigatha210221.pdf" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology</a>
-- <a href="https://www.dhammatalks.org/suttas/KN/Thag/" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology (dhammatalks.org)</a>
+- <a href="https://www.dhammatalks.org/Archive/Writings/Ebooks/TheragathaTherigatha210221.pdf" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology (PDF Edition)</a>
+- <a href="https://www.dhammatalks.org/suttas/KN/Thag/" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology (Web Edition)</a>
 
 ## Articles
 

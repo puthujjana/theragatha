@@ -7,20 +7,20 @@ weight: 1
 
 *Translated by Bhikkhu Sujato.*
 
-## [1.1 Subhūti](thag1.1)
+## [1.1 Subhūti](../thag1.1/)
 My little hut is roofed and pleasant,  
 Sheltered from the wind:  
 So rain, sky, as you please!  
 My mind is serene and freed,  
 I practice whole-heartedly: so rain, sky! 
 
-## 1.2 Mahākoṭṭhika  
+## [1.2 Mahākoṭṭhika](../thag1.2/) 
 Calm and quiet,  
 Wise in counsel and steady;  
 Shaking off bad qualities,  
 As the wind shakes leaves off a tree. 
 
-## 1.3 Kaṅkhārevata
+## [1.3 Kaṅkhārevata](../thag1.3/)
 See this wisdom of the Tathāgatas!  
 Like a fire blazing in the night,  
 Giving light, giving vision,  
