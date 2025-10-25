@@ -34,8 +34,6 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter_one/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter_one/</loc>
-  </url><url>
     <loc>http://localhost:1313/en/theragatha/</loc>
     <xhtml:link
                 rel="alternate"
@@ -399,8 +397,6 @@
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-five/thag5.8/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-eight/chapter-eight/</loc>
-  </url><url>
-    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter_eight/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.9/</loc>
   </url><url>
