@@ -7,7 +7,7 @@ weight: 1
 
 *Translated by Bhikkhu Sujato.*
 
-## [1.1 Subhūti](thag1.1.md)
+## [1.1 Subhūti](thag1.1)
 My little hut is roofed and pleasant,  
 Sheltered from the wind:  
 So rain, sky, as you please!  
