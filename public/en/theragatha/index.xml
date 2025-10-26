@@ -114,9 +114,16 @@
     </item>
     <item>
       <title>Chapter One</title>
-      <link>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter_one/</link>
+      <link>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter-one/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter_one/</guid>
+      <guid>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter-one/</guid>
+      <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;!-- *Translated by Bhikkhu Sujato.* --&gt;&#xA;&lt;!-- &lt;div class=&#34;page-citation&#34; style=&#34;margin-top:0.75rem; font-size:0.95em; color:var(--muted)&#34;&gt;&#xA;      &lt;div class=&#34;citation-text&#34;&gt;&#xA;        &lt;em&gt;Translation © Bhikkhu Sujato 2018, from &lt;a href=&#34;https://suttacentral.net&#34;&gt;SuttaCentral.net&lt;/a&gt;, licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.&lt;/em&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt; --&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;&lt;a href=&#34;../thag1.1/&#34;&gt;1.1 Subhūti&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;12-mahākoṭṭhika&#34;&gt;&lt;a href=&#34;../thag1.2/&#34;&gt;1.2 Mahākoṭṭhika&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Calm and quiet,&lt;br&gt;&#xA;Wise in counsel and steady;&lt;br&gt;&#xA;Shaking off bad qualities,&lt;br&gt;&#xA;As the wind shakes leaves off a tree.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chapter One</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/chapter_one/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/chapter_one/</guid>
       <description>&lt;h1 id=&#34;chapter-one&#34;&gt;Chapter One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;11-subhūti&#34;&gt;&lt;a href=&#34;../thag1.1/&#34;&gt;1.1 Subhūti&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;12-mahākoṭṭhika&#34;&gt;&lt;a href=&#34;../thag1.2/&#34;&gt;1.2 Mahākoṭṭhika&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhika&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Calm and quiet,&lt;br&gt;&#xA;Wise in counsel and steady;&lt;br&gt;&#xA;Shaking off bad qualities,&lt;br&gt;&#xA;As the wind shakes leaves off a tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;13-kaṅkhārevata&#34;&gt;&lt;a href=&#34;../thag1.3/&#34;&gt;1.3 Kaṅkhārevata&lt;/a&gt;&lt;a class=&#34;anchor&#34; href=&#34;#13-ka%e1%b9%85kh%c4%81revata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;See this wisdom of the Tathāgatas!&lt;br&gt;&#xA;Like a fire blazing in the night,&lt;br&gt;&#xA;Giving light, giving vision,&lt;br&gt;&#xA;Dispelling the doubt of those who’ve come here.&lt;/p&gt;</description>
     </item>
     <item>
@@ -125,6 +132,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-one/thag1.1/</guid>
       <description>&lt;h1 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;My little hut is roofed and pleasant,&lt;br&gt;&#xA;Sheltered from the wind:&lt;br&gt;&#xA;So rain, sky, as you please!&lt;br&gt;&#xA;My mind is serene and freed,&lt;br&gt;&#xA;I practice whole-heartedly: so rain, sky!&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Verse 1</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.1/</guid>
+      <description>&lt;h1 id=&#34;11-subhūti&#34;&gt;1.1 Subhūti&lt;a class=&#34;anchor&#34; href=&#34;#11-subh%c5%abti&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;My hut is roofed, comfortable,&lt;br&gt;&#xA;free of drafts;&lt;br&gt;&#xA;my mind, well-centered,&lt;br&gt;&#xA;released.&lt;br&gt;&#xA;I remain ardent.&lt;br&gt;&#xA;So, rain-deva.&lt;br&gt;&#xA;Go ahead &amp;amp; rain.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Verse 1.10</title>
@@ -306,7 +320,7 @@
       <link>http://localhost:1313/en/theragatha/sujato/chapter-one/thag1.14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-one/thag1.14/</guid>
-      <description>&lt;h2 id=&#34;114-novice-sivaka&#34;&gt;1.14 Novice Sivaka&lt;a class=&#34;anchor&#34; href=&#34;#114-novice-sivaka&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My preceptor said:&lt;br&gt;&#xA;“Let’s go from here, Sīvaka.”&lt;br&gt;&#xA;My body lives in the village,&lt;br&gt;&#xA;But my mind has gone to the wilderness.&lt;br&gt;&#xA;I’ll go there even if I’m lying down;&lt;br&gt;&#xA;There’s no tying down one who understands.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
+      <description>&lt;h2 id=&#34;114-novice-sivaka&#34;&gt;1.14 Novice Sivaka&lt;a class=&#34;anchor&#34; href=&#34;#114-novice-sivaka&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;My preceptor said:&lt;br&gt;&#xA;“Let’s go from here, Sīvaka.”&lt;br&gt;&#xA;My body lives in the village,&lt;br&gt;&#xA;But my mind has gone to the wilderness.&lt;br&gt;&#xA;I’ll go there even if I’m lying down;&lt;br&gt;&#xA;There’s no tying down one who understands.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;!-- 1. Compare this with this account of an interaction between the Desert Father Abba Sisois and his attendant:&#xA;&#xA;&gt;&#34;ABRAHAM, the disciple of Abbot Sisois, said to him: Father, you are an&#xA;old man. Let’s go back to the world. Abbot Sisois replied: Very well,&#xA;we’ll go where there are no women. His disciple said: What is the&#xA;place in which there are no women, except the desert alone? The&#xA;elder replied to him: Therefore take me into the desert.&#34; (Merton, 2012)&#xA;&#xA;Merton, T. (2012). The wisdom of the desert. New Directions Publishing. --&gt;</description>
     </item>
     <item>
       <title>Verse 1.15</title>
@@ -1051,6 +1065,13 @@
       <description>&lt;h1 id=&#34;chapter-two&#34;&gt;Chapter Two&lt;a class=&#34;anchor&#34; href=&#34;#chapter-two&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;21-uttara&#34;&gt;2.1 Uttara&lt;a class=&#34;anchor&#34; href=&#34;#21-uttara&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;No life is permanent,&lt;br&gt;&#xA;And no conditions last forever.&lt;br&gt;&#xA;The aggregates are reborn&lt;br&gt;&#xA;And pass away, again and again.&lt;/p&gt;&#xA;&lt;p&gt;Knowing this danger,&lt;br&gt;&#xA;I’m not interested in being reborn&lt;br&gt;&#xA;Into any state of existence.&lt;br&gt;&#xA;I’ve escaped all sensual pleasures,&lt;br&gt;&#xA;And attained the end of defilements.&lt;/p&gt;&#xA;&lt;h2 id=&#34;22-piṇḍolabhāradvāja&#34;&gt;2.2 Piṇḍolabhāradvāja&lt;a class=&#34;anchor&#34; href=&#34;#22-pi%e1%b9%87%e1%b8%8dolabh%c4%81radv%c4%81ja&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You can’t live by fasting,&lt;br&gt;&#xA;But food doesn’t lead to peace of heart.&lt;br&gt;&#xA;Seeing how the body is sustained by food,&lt;br&gt;&#xA;I wander, seeking.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Verse 2</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.2/</guid>
+      <description>&lt;h1 id=&#34;12-mahākoṭṭhita&#34;&gt;1.2 Mahākoṭṭhita&lt;a class=&#34;anchor&#34; href=&#34;#12-mah%c4%81ko%e1%b9%ad%e1%b9%adhita&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Calmed, restrained,&lt;br&gt;&#xA;giving counsel unruffled,&lt;br&gt;&#xA;he shakes off evil qualities—&lt;br&gt;&#xA;as the breeze,&lt;br&gt;&#xA;a leaf from a tree.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
       <title>10.3 Mahākappina</title>
       <link>http://localhost:1313/en/theragatha/sujato/chapter-ten/thag10.3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1119,6 +1140,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-three/chapter_three/</guid>
       <description>&lt;h1 id=&#34;chapter-three&#34;&gt;Chapter Three&lt;a class=&#34;anchor&#34; href=&#34;#chapter-three&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;31-aṅgaṇikabhāradvāja&#34;&gt;3.1 Aṅgaṇikabhāradvāja&lt;a class=&#34;anchor&#34; href=&#34;#31-a%e1%b9%85ga%e1%b9%87ikabh%c4%81radv%c4%81ja&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Seeking purity the wrong way,&lt;br&gt;&#xA;I worshipped the sacred fire in a grove.&lt;br&gt;&#xA;Not knowing the path to purity,&lt;br&gt;&#xA;I mortified my flesh in search of immortality.&lt;br&gt;&#xA;I’ve gained this happiness by means of happiness:&lt;br&gt;&#xA;See the excellence of the Dhamma!&lt;br&gt;&#xA;I’ve attained the three knowledges,&lt;br&gt;&#xA;And fulfilled the Buddha’s instructions.&lt;br&gt;&#xA;In the past I was related to Brahmā,&lt;br&gt;&#xA;But now I’m really a brahmin:&lt;br&gt;&#xA;I have the three knowledges, I’m cleansed,&lt;br&gt;&#xA;I’m an initiate,&lt;br&gt;&#xA;And I’m accomplished in sacred knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verse 3</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.3/</guid>
+      <description>&lt;h1 id=&#34;13-kaṅkhā-doubting-revata&#34;&gt;1.3 Kaṅkhā (Doubting) Revata&lt;a class=&#34;anchor&#34; href=&#34;#13-ka%e1%b9%85kh%c4%81-doubting-revata&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;See this:&lt;br&gt;&#xA;the discernment&lt;br&gt;&#xA;of the Tathāgatas,&lt;br&gt;&#xA;like a fire ablaze in the night,&lt;br&gt;&#xA;giving light, giving eyes,&lt;br&gt;&#xA;to those who come,&lt;br&gt;&#xA;subduing their doubt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>10.4 Cūḷapanthaka</title>
@@ -1275,6 +1303,13 @@
       <description>&lt;h1 id=&#34;chapter-sixteen&#34;&gt;Chapter Sixteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-sixteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;61-uruveḷakassapa&#34;&gt;6.1 Uruveḷakassapa&lt;a class=&#34;anchor&#34; href=&#34;#61-uruve%e1%b8%b7akassapa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;When I saw the marvels&lt;br&gt;&#xA;Of the renowned Gotama,&lt;br&gt;&#xA;I didn’t immediately bow to him;&lt;br&gt;&#xA;I was blinded by jealousy and conceit.&lt;/p&gt;&#xA;&lt;p&gt;Knowing what I was thinking,&lt;br&gt;&#xA;The trainer of men spurred me on;&lt;br&gt;&#xA;And I was struck with a marvellous inspiration,&lt;br&gt;&#xA;That gave me goose-bumps.&lt;/p&gt;&#xA;&lt;p&gt;Rejecting my petty accomplishments&lt;br&gt;&#xA;When I used to be a matted-hair ascetic,&lt;br&gt;&#xA;I then went forth,&lt;br&gt;&#xA;In the conqueror’s teaching.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Verse 6</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.6/</guid>
+      <description>&lt;h1 id=&#34;16-dabba-capable&#34;&gt;1.6 Dabba (“Capable”)&lt;a class=&#34;anchor&#34; href=&#34;#16-dabba-capable&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Whoever,&lt;br&gt;&#xA;hard to tame,&lt;br&gt;&#xA;has been tamed by taming,&lt;br&gt;&#xA;—capable, contented,&lt;br&gt;&#xA;crossed over doubt,&lt;br&gt;&#xA;victorious, as his fears&lt;br&gt;&#xA;are dispersed:&lt;br&gt;&#xA;He is capable,&lt;br&gt;&#xA;unbound,&lt;br&gt;&#xA;steadfast in mind.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
       <title>10.7 (Apara) Gotama</title>
       <link>http://localhost:1313/en/theragatha/sujato/chapter-ten/thag10.7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1315,6 +1350,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-seven/chapter-seven/</guid>
       <description>&lt;h1 id=&#34;chapter-seven&#34;&gt;Chapter Seven&lt;a class=&#34;anchor&#34; href=&#34;#chapter-seven&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;71-sundarasamudda&#34;&gt;7.1 Sundarasamudda&lt;a class=&#34;anchor&#34; href=&#34;#71-sundarasamudda&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;She was adorned with jewellery and all dressed up,&lt;br&gt;&#xA;With a garland of flowers&lt;br&gt;&#xA;And perfume of sandalwood,&lt;br&gt;&#xA;Her feet brightly rouged:&lt;br&gt;&#xA;A courtesan wearing slippers.&lt;/p&gt;&#xA;&lt;p&gt;She took off her slippers in front of me,&lt;br&gt;&#xA;Her hands in añjalī,&lt;br&gt;&#xA;And softly and sweetly&lt;br&gt;&#xA;She spoke to me, smiling:&lt;/p&gt;&#xA;&lt;p&gt;“You’re too young to have gone forth;&lt;br&gt;&#xA;Come, stay in my teaching!&lt;br&gt;&#xA;Enjoy human sensual pleasures,&lt;br&gt;&#xA;I’ll give you riches.&lt;br&gt;&#xA;I promise this is the truth—&lt;br&gt;&#xA;I’ll swear by the Sacred Flame.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verse 7</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.7/</guid>
+      <description>&lt;h1 id=&#34;17-bhalliya&#34;&gt;1.7 Bhalliya&lt;a class=&#34;anchor&#34; href=&#34;#17-bhalliya&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Who scatters the troops&#xA;of the King of Death—&#xA;as a great flood,&#xA;a very weak bridge made of reeds—&#xA;is victorious,&#xA;for his fears are dispersed.&#xA;He’s tamed,&#xA;unbound,&#xA;steadfast in mind.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>2.8 Surādha</title>
@@ -1415,6 +1457,13 @@
       <description>&lt;h1 id=&#34;chapter-ten&#34;&gt;Chapter Ten&lt;a class=&#34;anchor&#34; href=&#34;#chapter-ten&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;101-kāḷudāyi&#34;&gt;10.1 Kāḷudāyi&lt;a class=&#34;anchor&#34; href=&#34;#101-k%c4%81%e1%b8%b7ud%c4%81yi&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“The trees are now crimson, venerable sir,&lt;br&gt;&#xA;They’ve shed their foliage, and are ready to fruit.&lt;br&gt;&#xA;They’re splendid, as if on fire;&lt;br&gt;&#xA;Great hero, this period is full of flavour.&lt;/p&gt;&#xA;&lt;p&gt;The blossoming trees are delightful,&lt;br&gt;&#xA;Wafting their scent all around, in all directions,&lt;br&gt;&#xA;They’ve shed their leaves and wish to fruit,&lt;br&gt;&#xA;Hero, it is time to depart from here.&lt;/p&gt;&#xA;&lt;p&gt;It is neither too hot nor too cold,&lt;br&gt;&#xA;Venerable sir, it’s a pleasant season for travelling.&lt;br&gt;&#xA;Let the Sākiyas and Koḷiyas see you,&lt;br&gt;&#xA;Facing west as you cross the Rohiṇī river.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Verse 10</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.10/</guid>
+      <description>&lt;h1 id=&#34;110-puṇṇamāsa&#34;&gt;1.10 Puṇṇamāsa&lt;a class=&#34;anchor&#34; href=&#34;#110-pu%e1%b9%87%e1%b9%87am%c4%81sa&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Whoever,&lt;br&gt;&#xA;a master of knowing,&lt;br&gt;&#xA;contented,&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;&#xA;restrained in mind,&lt;br&gt;&#xA;destroys longing for here &amp;amp; beyond,&lt;br&gt;&#xA;unsmeared with regard to all dhammas,&lt;br&gt;&#xA;would know the arising-&amp;amp;-disbanding&lt;br&gt;&#xA;of the world.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;Reading santusito with the Thai edition. Other editions have samito—calmed, appeased—which doesn’t fit the meter.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>2.11 Mahācunda</title>
       <link>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1513,6 +1562,13 @@
       <description>&lt;h1 id=&#34;chapter-thirteen&#34;&gt;Chapter Thirteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-thirteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;131-soṇakoḷivisa&#34;&gt;13.1 Soṇakoḷivisa&lt;a class=&#34;anchor&#34; href=&#34;#131-so%e1%b9%87ako%e1%b8%b7ivisa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;He who was special in the kingdom,&lt;br&gt;&#xA;The attendant to the king of Aṅga,&lt;br&gt;&#xA;Today is special in the Dhamma—&lt;br&gt;&#xA;Soṇa has gone beyond suffering.&lt;/p&gt;&#xA;&lt;p&gt;Five should be cut off, five should be abandoned,&lt;br&gt;&#xA;Five should be developed further.&lt;br&gt;&#xA;A monk who has gone beyond&lt;br&gt;&#xA;Five attachments is called&lt;br&gt;&#xA;“One who has crossed the flood.”&lt;/p&gt;&#xA;&lt;p&gt;If a monk is insolent and negligent,&lt;br&gt;&#xA;Concerned only with externals,&lt;br&gt;&#xA;Their virtue, samādhi, and understanding&lt;br&gt;&#xA;Do not become fulfilled.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Verse 13</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.13/</guid>
+      <description>&lt;h1 id=&#34;113-vanavaccha&#34;&gt;1.13 Vanavaccha&lt;a class=&#34;anchor&#34; href=&#34;#113-vanavaccha&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;The color of blue-dark clouds,&lt;br&gt;&#xA;glistening,&lt;br&gt;&#xA;cooled with the waters&lt;br&gt;&#xA;of clear-flowing streams&lt;br&gt;&#xA;covered with ladybugs:&lt;br&gt;&#xA;Those rocky crags&lt;br&gt;&#xA;refresh me.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
       <title>2.14 Somamitta</title>
       <link>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1532,6 +1588,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-fourteen/chapter-fourteen/</guid>
       <description>&lt;h1 id=&#34;chapter-fourteen&#34;&gt;Chapter Fourteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-fourteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;141-khadiravaniyarevata&#34;&gt;14.1 Khadiravaniyarevata&lt;a class=&#34;anchor&#34; href=&#34;#141-khadiravaniyarevata&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Since I’ve gone forth&lt;br&gt;&#xA;From home life into homelessness,&lt;br&gt;&#xA;I’m not aware of any intention&lt;br&gt;&#xA;That is ignoble and hateful.&lt;/p&gt;&#xA;&lt;p&gt;“May these beings be killed!&lt;br&gt;&#xA;May they be slaughtered!&lt;br&gt;&#xA;May they suffer!”—&lt;br&gt;&#xA;I’m not aware of having any such intentions&lt;br&gt;&#xA;In all this long period of time.&lt;/p&gt;&#xA;&lt;p&gt;I have been aware of loving-kindness,&lt;br&gt;&#xA;Measureless and well-developed,&lt;br&gt;&#xA;Gradually built up,&lt;br&gt;&#xA;Just as the Buddha taught.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verse 14</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.14/</guid>
+      <description>&lt;h1 id=&#34;114-vanavacchas-pupil&#34;&gt;1.14 Vanavaccha’s pupil&lt;a class=&#34;anchor&#34; href=&#34;#114-vanavacchas-pupil&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;My preceptor said to me:&lt;br&gt;&#xA;Let’s go from here, Sīvaka.&lt;br&gt;&#xA;My body stays in the village;&lt;br&gt;&#xA;my mind has gone to the wilds.&lt;br&gt;&#xA;Even though lying down,&lt;br&gt;&#xA;I go.&lt;br&gt;&#xA;There’s no tying down&lt;br&gt;&#xA;one who knows.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>2.15 Sabbamitta</title>
@@ -1576,6 +1639,13 @@
       <description>&lt;h1 id=&#34;chapter-sixteen&#34;&gt;Chapter Sixteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-sixteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;161-adhimutta&#34;&gt;16.1 Adhimutta&lt;a class=&#34;anchor&#34; href=&#34;#161-adhimutta&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Those that we previously killed,&#xA;Whether for sacrifice or for wealth,&#xA;Without exception were afraid:&#xA;They trembled and squealed.&lt;/p&gt;&#xA;&lt;p&gt;But you aren’t frightened;&#xA;Your appearance is becoming more calm:&#xA;Why don’t you cry out&#xA;In such a fearful situation?”&lt;/p&gt;&#xA;&lt;p&gt;“There isn’t any mental suffering&#xA;For one without expectations, village chief.&#xA;All fears are left behind&#xA;By one whose fetters are ended.&lt;/p&gt;&#xA;&lt;p&gt;When attachment to life is ended,&#xA;In this very life as it is,&#xA;There is no fear of death,&#xA;It is just like laying down a burden.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Verse 16</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.16/</guid>
+      <description>&lt;h1 id=&#34;116-belaṭṭhasīsa&#34;&gt;1.16 Belaṭṭhasīsa&lt;a class=&#34;anchor&#34; href=&#34;#116-bela%e1%b9%ad%e1%b9%adhas%c4%absa&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Just as a fine thoroughbred steed,&lt;br&gt;&#xA;with swishing tail &amp;amp; mane&lt;br&gt;&#xA;runs with next-to-no effort,&lt;br&gt;&#xA;so my days &amp;amp; nights&lt;br&gt;&#xA;run with next-to-no effort&lt;br&gt;&#xA;now that I’ve gained a pleasure&lt;br&gt;&#xA;not of the flesh.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;See SN 36:31 and Thag 1:85.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>2.17 Tissa</title>
       <link>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.17/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1602,6 +1672,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-eighteen/chapter-eighteen/</guid>
       <description>&lt;h1 id=&#34;chapter-eighteen&#34;&gt;Chapter Eighteen&lt;a class=&#34;anchor&#34; href=&#34;#chapter-eighteen&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translation © Bhikkhu Sujato 2018, from &lt;a href=&#34;https://suttacentral.net&#34;&gt;SuttaCentral.net&lt;/a&gt;, licensed under &lt;a href=&#34;https://creativecommons.org/licenses/by/4.0/&#34;&gt;CC BY 4.0&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;181-mahākassapa&#34;&gt;18.1 Mahākassapa&lt;a class=&#34;anchor&#34; href=&#34;#181-mah%c4%81kassapa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;You shouldn’t live for the adulation of a following;&#xA;It turns your mind, and makes samādhi hard to find.&#xA;Seeing that popularity is suﬀering,&#xA;You shouldn’t accept a following.&lt;/p&gt;&#xA;&lt;p&gt;A sage should not visit respectable families&#xA;It turns your mind, and makes samādhi hard to find.&#xA;One who’s eager and greedy for flavours,&#xA;Misses the goal that brings such happiness.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verse 18</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.18/</guid>
+      <description>&lt;h1 id=&#34;118-siṅgālapitar&#34;&gt;1.18 Siṅgālapitar&lt;a class=&#34;anchor&#34; href=&#34;#118-si%e1%b9%85g%c4%81lapitar&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;There was an heir to the One Awakened,&lt;br&gt;&#xA;a monk in the Bhesakaḷā forest,&lt;br&gt;&#xA;who suffused this whole earth&lt;br&gt;&#xA;with the perception of&lt;br&gt;&#xA;“bones.”&lt;br&gt;&#xA;Quickly, I’d say, he abandoned&lt;br&gt;&#xA;sensual passion.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>2.19 Nanda</title>
@@ -1644,6 +1721,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/theragatha/sujato/chapter-twenty-one/chapter-twenty-one/</guid>
       <description>&lt;h1 id=&#34;chapter-twenty-one&#34;&gt;Chapter Twenty-One&lt;a class=&#34;anchor&#34; href=&#34;#chapter-twenty-one&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Translated by Bhikkhu Sujato.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;211-vaṅgīsa&#34;&gt;21.1 Vaṅgīsa&lt;a class=&#34;anchor&#34; href=&#34;#211-va%e1%b9%85g%c4%absa&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;“Now that I’ve gone forth&#xA;From the home life into homelessness,&#xA;I’m assailed&#xA;By the reckless thoughts of the Dark One.&lt;/p&gt;&#xA;&lt;p&gt;Even if a thousand mighty princes and great archers&#xA;Well trained, with strong bows,&#xA;Might completely surround me,&#xA;I would not flee.&lt;/p&gt;&#xA;&lt;p&gt;And if women come,&#xA;Many more than that,&#xA;They won’t scare me:&#xA;I stand firm in Dhamma.&lt;/p&gt;&#xA;&lt;p&gt;Only once did I personally hear&#xA;From the Buddha, Kinsman of the Sun,&#xA;About the path leading to nibbāna;&#xA;My mind was delighted with that teaching.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verse 21</title>
+      <link>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.21/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.21/</guid>
+      <description>&lt;h1 id=&#34;121-nigrodha&#34;&gt;1.21 Nigrodha&lt;a class=&#34;anchor&#34; href=&#34;#121-nigrodha&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;I’m not afraid&lt;br&gt;&#xA;of danger,&lt;br&gt;&#xA;of fear.&lt;br&gt;&#xA;Our Teacher’s adept&lt;br&gt;&#xA;in the deathless.&lt;br&gt;&#xA;Where danger, where fear&lt;br&gt;&#xA;do not remain:&lt;br&gt;&#xA;That’s the path&lt;br&gt;&#xA;by which the monks go.&lt;/p&gt;&#xA;&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;a class=&#34;anchor&#34; href=&#34;#notes&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>2.22 Bhaddiya Kāligodhāputta</title>

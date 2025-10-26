@@ -7,16 +7,16 @@ id: "thag1.{verse_number}"
 chapter: 1
 verse: verse_number
 slug: "thag1.{verse_number}"
-edition: "SuttaCentral"
+edition: "Dhammatalks.org"
 collection: "Theragāthā"
-pali_source: "suttacentral"
-translator: "Bhikkhu Sujato"
+pali_source: "Dhammatalks.org"
+translator: "Ṭhānissaro Bhikkhu"
 weight: {verse_number}
 bookHidden: true
 ---
 """
 
-        new_content = new_front_matter + "\n# 1." + verse_number + "\n\n## Attribution\n\n## Notes"
+        new_content = new_front_matter + "\n# 1." + verse_number + "\n\n## Notes"
 
         # Write the new file (e.g., thag1.4.md)
         output_filename = f"thag1.{verse_number}.md"

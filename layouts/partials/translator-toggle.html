@@ -1,29 +1,60 @@
-{{ $currentPath := .RelPermalink }}
-{{ $otherTranslator := "" }}
-{{ $buttonText := "" }}
-{{ $targetPath := "" }}
+{{- $current := .Page -}}
+{{- $rp := $current.RelPermalink -}}
+{{- $otherTranslator := "" -}}
+{{- $buttonText := "" -}}
+{{- if in $rp "/sujato/" -}}
+  {{- $otherTranslator = "thanissaro" -}}
+  {{- $buttonText = "Switch to Ṭhānissaro Bhikkhu" -}}
+{{- else if in $rp "/thanissaro/" -}}
+  {{- $otherTranslator = "sujato" -}}
+  {{- $buttonText = "Switch to Bhikkhu Sujato" -}}
+{{- end -}}
 
-{{ if in $currentPath "/sujato/" }}
-  {{ $otherTranslator = "thanissaro" }}
-  {{ $buttonText = "Switch to Ṭhānissaro Bhikkhu" }}
-{{ else if in $currentPath "/thanissaro/" }}
-  {{ $otherTranslator = "sujato" }}
-  {{ $buttonText = "Switch to Bhikkhu Sujato" }}
-{{ end }}
+{{- if $otherTranslator -}}
+  {{- $base := $current.File.BaseFileName -}}              {{/* e.g. thag1.1 or index */}}
+  {{- $baseDotToUnd := replace $base "." "_" -}}          {{/* thag1_1 */}}
+  {{- $candidates := where .Site.RegularPages "Type" .Page.Type -}} {{/* narrow by section/type */}}
+  {{- $found := false -}}
+  {{- $target := "" -}}
 
-{{ if $otherTranslator }}
-  {{/* Replace the current translator segment with the other */}}
-  {{ $targetPath = replace $currentPath (print "/" (cond (in $currentPath "/sujato/") "sujato" "thanissaro") "/") (print "/" $otherTranslator "/") }}
-  
-  <div style="position: relative;">
-    <div class="translator-switcher"
-         style="position: absolute; right: 0; top: 0; margin: 0.25rem 0;">
-      <a href="{{ $targetPath }}"
-         class="book-btn"
-         style="padding: 0.25rem 0.75rem; border: 1px solid var(--color-border);
-                border-radius: 0.5rem; text-decoration: none;">
-        {{ $buttonText }}
-      </a>
+  {{- range $c := $candidates -}}
+    {{- if and (in $c.RelPermalink (print "/" $otherTranslator "/")) (not $found) -}}
+      {{- /* direct base filename match */ -}}
+      {{- if eq $c.File.BaseFileName $base -}}
+        {{- $found = true }} {{- $target = $c.RelPermalink -}}
+      {{- end -}}
+
+      {{- /* match by page param id */ -}}
+      {{- if (and (not $found) (isset $c.Params "id") ) -}}
+        {{- if or (eq $c.Params.id $base) (eq $c.Params.id (replace $base "." "_")) -}}
+          {{- $found = true }} {{- $target = $c.RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- /* match by file path ending with base.md or base/index.md */ -}}
+      {{- if not $found -}}
+        {{- $p := $c.File.Path -}}
+        {{- if or (in $p (print "/" $base ".md")) (in $p (print "/" $base "/index.md")) (in $p (print "/" $base "/_index.md")) -}}
+          {{- $found = true }} {{- $target = $c.RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- /* also try dot->underscore variant in path */ -}}
+      {{- if not $found -}}
+        {{- if or (in $c.File.Path (print "/" $baseDotToUnd ".md")) (in $c.File.Path (print "/" $baseDotToUnd "/index.md")) -}}
+          {{- $found = true }} {{- $target = $c.RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if $found -}}
+    <div style="position: relative;">
+      <div class="translator-switcher" style="position: absolute; right: 0; top: 0; margin: 0.25rem 0;">
+        <a href="{{ $target }}" class="book-btn" style="padding:0.25rem 0.75rem; border-radius:0.5rem; text-decoration:none;">
+          {{ $buttonText }}
+        </a>
+      </div>
     </div>
-  </div>
-{{ end }}
+  {{- end -}}
+{{- end -}}

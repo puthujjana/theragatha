@@ -3,10 +3,10 @@ title: "Verse 2"
 id: "thag1.2"
 chapter: 1
 verse: 2
-edition: SuttaCentral
-collection: Theragāthā
-pali_source: suttacentral
-translator: Bhikkhu Sujato
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
 weight: 1
 slug: "thag1.2"
 bookHidden: true

@@ -32,7 +32,9 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-nine/thag9.1/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter_one/</loc>
+    <loc>http://localhost:1313/en/theragatha/sujato/chapter-one/chapter-one/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/chapter_one/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/</loc>
     <xhtml:link
@@ -47,6 +49,8 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-one/thag1.1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.1/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-one/thag1.10/</loc>
   </url><url>
@@ -312,6 +316,8 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/chapter_two/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.2/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-ten/thag10.3/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-seventeen/thag17.3/</loc>
@@ -331,6 +337,8 @@
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-eight/thag8.3/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-three/chapter_three/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.3/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-ten/thag10.4/</loc>
   </url><url>
@@ -376,6 +384,8 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-six/chapter_six/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.6/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-ten/thag10.7/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.7/</loc>
@@ -387,6 +397,8 @@
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-five/thag5.7/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-seven/chapter-seven/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.7/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.8/</loc>
   </url><url>
@@ -428,6 +440,8 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-ten/chapter-ten/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.10/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.11/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-three/thag3.11/</loc>
@@ -456,11 +470,15 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-thirteen/chapter-thirteen/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.13/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.14/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-three/thag3.14/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-fourteen/chapter-fourteen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.14/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.15/</loc>
   </url><url>
@@ -474,6 +492,8 @@
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-sixteen/chapter-sixteen/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.16/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.17/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-seventeen/chapter-seventeen/</loc>
@@ -481,6 +501,8 @@
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.18/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-eighteen/chapter-eighteen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.18/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.19/</loc>
   </url><url>
@@ -493,6 +515,8 @@
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.21/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-twenty-one/chapter-twenty-one/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/theragatha/thanissaro/chapter-one/thag1.21/</loc>
   </url><url>
     <loc>http://localhost:1313/en/theragatha/sujato/chapter-two/thag2.22/</loc>
   </url><url>

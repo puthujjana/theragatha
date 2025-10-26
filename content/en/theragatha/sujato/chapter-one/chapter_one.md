@@ -1,11 +1,21 @@
 ---
 title: "Chapter One"
+id: "chapter-one"
+chapter: 1
+edition: "SuttaCentral"
+collection: "Theragāthā"
+pali_source: "suttacentral"
+translator: "Bhikkhu Sujato"
+weight: 1
+slug: "chapter-one"
 weight: 1
 ---
 
 # Chapter One
 
-*Translated by Bhikkhu Sujato.*
+<!-- *Translated by Bhikkhu Sujato.* -->
+
+<!-- {{< citation >}} -->
 
 ## [1.1 Subhūti](../thag1.1/)
 My little hut is roofed and pleasant,  
