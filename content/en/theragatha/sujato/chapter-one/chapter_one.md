@@ -6,7 +6,6 @@ edition: "SuttaCentral"
 collection: "Theragāthā"
 pali_source: "suttacentral"
 translator: "Bhikkhu Sujato"
-weight: 1
 slug: "chapter-one"
 weight: 1
 ---
