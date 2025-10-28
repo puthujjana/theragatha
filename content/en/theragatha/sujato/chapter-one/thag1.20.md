@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.20 Ajita  
+# 1.20 Ajita  
 
 I do not fear death;  
 Nor do I long for life.  

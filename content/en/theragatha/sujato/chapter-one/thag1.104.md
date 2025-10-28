@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.104 Khitaka  
+# 1.104 Khitaka  
 
 Hey! My body is light,  
 Full of so much rapture and happiness.  

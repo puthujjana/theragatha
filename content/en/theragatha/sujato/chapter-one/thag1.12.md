@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.12 Mahāvaccha  
+# 1.12 Mahāvaccha  
 
 Empowered by wisdom,  
 Endowed with virtue and vows,  

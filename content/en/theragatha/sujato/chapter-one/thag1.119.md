@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.119 Vajjiputta  
+# 1.119 Vajjiputta  
 
 You’ve gone to the jungle, the root of a tree,  
 Putting nibbāna in your heart.  

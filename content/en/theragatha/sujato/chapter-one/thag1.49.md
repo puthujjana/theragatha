@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.49 Yasoja  
+# 1.49 Yasoja  
 
 The seers who have cut off craving,  
 Who have crossed the flood,  

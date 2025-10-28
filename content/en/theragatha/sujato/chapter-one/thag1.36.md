@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.36 Ujjaya  
+# 1.36 Ujjaya  
 
 Beings flow along,  
 Like fish in a stream.  

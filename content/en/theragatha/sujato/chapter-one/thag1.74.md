@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.74 Sañjaya  
+# 1.74 Sañjaya  
 
 It’s not proper for a monk  
 To strive for worldly gains.  

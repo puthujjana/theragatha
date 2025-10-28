@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.101 Belaṭṭhānika  
+# 1.101 Belaṭṭhānika  
 
 He’s given up the household life,  
 But he has no purpose,  

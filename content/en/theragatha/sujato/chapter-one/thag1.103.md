@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.103 Bandhura  
+# 1.103 Bandhura  
 
 I don’t need this—  
 I’m satisfied and pleased with the sweet Dhamma.  

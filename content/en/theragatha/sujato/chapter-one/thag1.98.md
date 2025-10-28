@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.98 Abhaya  
+# 1.98 Abhaya  
 
 If you focus on the pleasant aspect  
 Of sights that you see, you’ll lose your mindfulness.  

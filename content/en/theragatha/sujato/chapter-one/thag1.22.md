@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.22 Cittaka  
+# 1.22 Cittaka  
 
 Crested peacocks with beautiful blue necks  
 Cry out in Karaṃvī.  

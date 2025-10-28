@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.39 Samiddhi (2)  
+# 1.39 Samiddhi (2)  
 
 I went forth out of faith,  
 Mindful, seeking peace.  

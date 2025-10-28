@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.100 Devasabha  
+# 1.100 Devasabha  
 
 Accomplished in the four right strivings,  
 With establishment of mindfulness as your safe place,  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.18 Siṅgālapitu  
+# 1.18 Siṅgālapitu  
 
 There was an heir of the Buddha,  
 A monk in Bhesakaḷā forest,  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.14 Novice Sivaka  
+# 1.14 Novice Sivaka  
 
 My preceptor said:  
 “Let’s go from here, Sīvaka.”  

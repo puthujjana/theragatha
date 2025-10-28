@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.30 Paripuṇṇa  
+# 1.30 Paripuṇṇa  
 
 Whatever a person should do for their own good,  
 Let them do that with due care and effort.  

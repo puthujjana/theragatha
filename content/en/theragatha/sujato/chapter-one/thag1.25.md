@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.25 Nandaka  
+# 1.25 Nandaka  
 
 They gather together,  
 Discussing the Teacher’s words.  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.24 Sugandha  
+# 1.24 Sugandha  
 
 I went forth after the rainy season—  
 See the excellence of the Dhamma!  

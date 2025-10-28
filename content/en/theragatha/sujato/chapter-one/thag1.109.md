@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.109 Saṃgharakkhita  
+# 1.109 Saṃgharakkhita  
 
 He’s gone on retreat,  
 But he doesn’t yet heed the counsel  

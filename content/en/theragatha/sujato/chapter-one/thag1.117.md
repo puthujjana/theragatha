@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.117 Yasa  
+# 1.117 Yasa  
 
 I’m well-anointed and well-dressed,  
 Adorned with all my jewellery.  

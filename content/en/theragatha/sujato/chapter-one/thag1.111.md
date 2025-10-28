@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.111 Jenta  
+# 1.111 Jenta  
 
 Going forth is hard, living at home is hard,  
 Dhamma is profound,  

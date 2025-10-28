@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.102 Setuccha  
+# 1.102 Setuccha  
 
 Deceived by conceit,  
 Defiled by conditions,  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.21 Nigrodha  
+# 1.21 Nigrodha  
 
 I’m not afraid of fear.  
 Our teacher is skilled in the deathless;  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.42 Rāmaṇīyavihārī (2)  
+# 1.42 Rāmaṇīyavihārī (2)  
 
 The wilderness is delightful,  
 Where ordinary people find no joy.  

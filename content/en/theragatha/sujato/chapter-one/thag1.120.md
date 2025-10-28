@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.120 Isidatta  
+# 1.120 Isidatta  
 
 The five aggregates are fully understood,  
 They remain, but their root is severed.  

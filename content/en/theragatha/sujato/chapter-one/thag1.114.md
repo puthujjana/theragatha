@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.114 Adhimutta  
+# 1.114 Adhimutta  
 
 When your body is uncomfortably heavy,  
 While life is running out;  

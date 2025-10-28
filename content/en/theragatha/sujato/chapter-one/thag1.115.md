@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.115 Mahānāma  
+# 1.115 Mahānāma  
 
 By Mount Nesādaka,  
 With its famous covering  

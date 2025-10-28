@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.16 Belaṭṭhasīsa  
+# 1.16 Belaṭṭhasīsa  
 
 Just as a fine thoroughbred  
 Proceeds with ease,  

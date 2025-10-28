@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.8 Vīra  
+# 1.8 Vīra  
 
 Once hard to tame, now tamed himself,  
 A hero, content, with doubt overcome,  

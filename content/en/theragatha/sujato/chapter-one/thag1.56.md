@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.56 Samiddhi  
+# 1.56 Samiddhi  
 
 I’ve overcome the powerful armies,  
 The five defilements in this body.  

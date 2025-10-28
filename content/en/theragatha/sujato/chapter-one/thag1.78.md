@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.78 Sañjaya  
+# 1.78 Sañjaya  
 
 Seeing the aggregates as suffering,  
 Empty, not-self, and void,  

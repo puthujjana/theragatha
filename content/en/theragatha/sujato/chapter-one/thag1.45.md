@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.45 Sañjaya (3)  
+# 1.45 Sañjaya (3)  
 
 See the great excellence of the wise:  
 They’ve crossed the flood,  

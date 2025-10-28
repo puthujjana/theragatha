@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.10 Puṇṇamāsa  
+# 1.10 Puṇṇamāsa  
 
 One who is accomplished in knowledge,  
 Peaceful and restrained,  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.7 Bhalliya  
+# 1.7 Bhalliya  
 
 He has swept away the army of the king of death,  
 Like a great flood sweeping away  

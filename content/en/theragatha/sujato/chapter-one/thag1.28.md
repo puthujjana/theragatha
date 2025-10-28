@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.28 Jambugāmika Tissa  
+# 1.28 Jambugāmika Tissa  
 
 “What is the one thing,” said the wanderer,  
 “That a mendicant must rightly explain?”  

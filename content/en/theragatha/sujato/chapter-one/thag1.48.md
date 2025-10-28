@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.48 Ujjaya (4)  
+# 1.48 Ujjaya (4)  
 
 Those who have destroyed the taints,  
 Who are poised and free from craving,  

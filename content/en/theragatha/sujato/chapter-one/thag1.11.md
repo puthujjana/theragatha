@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.11 Cūḷavaccha  
+# 1.11 Cūḷavaccha  
 
 A monk with much joy  
 In the Dhamma taught by the Buddha  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.31 Vijitasena  
+# 1.31 Vijitasena  
 
 One should look for a teacher,  
 Who is learned, intelligent, wise,  

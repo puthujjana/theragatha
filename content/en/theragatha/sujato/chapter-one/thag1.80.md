@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.80 Samiddhi  
+# 1.80 Samiddhi  
 
 The great teacher taught me the Dhamma,  
 For the stilling of all activities,  

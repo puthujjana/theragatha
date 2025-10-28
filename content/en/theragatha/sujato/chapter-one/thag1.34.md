@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.34 Rāmaṇeyyaka  
+# 1.34 Rāmaṇeyyaka  
 
 You mustn’t go back to the old path  
 That leads to lowly states.  

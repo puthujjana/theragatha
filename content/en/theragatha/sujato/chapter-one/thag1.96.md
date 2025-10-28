@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.96 Samiddhi  
+# 1.96 Samiddhi  
 
 The Blessed One taught me the Dhamma,  
 For the abandoning of all attachments,  

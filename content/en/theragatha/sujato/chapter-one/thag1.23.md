@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.23 Gosāla  
+# 1.23 Gosāla  
 
 I’ll eat honey and rice in Veḷugumba,  
 And then, skilfully scrutinizing  

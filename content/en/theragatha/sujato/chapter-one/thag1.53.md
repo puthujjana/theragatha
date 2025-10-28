@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.53 Yasadatta  
+# 1.53 Yasadatta  
 
 Sensual pleasures are like swords and stakes;  
 The aggregates are like their chopping block.  

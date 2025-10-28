@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.6 Sītavaniya  
+# 1.6 Sītavaniya  
 
 The monk who went to Sītavana is alone,  
 Content, practicing samādhi,  

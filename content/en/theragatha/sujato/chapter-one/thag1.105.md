@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.105 Malitavambha  
+# 1.105 Malitavambha  
 
 Dissatisfied, one should not stay;  
 Happy, one should depart.  

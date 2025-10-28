@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.54 Soṇa  
+# 1.54 Soṇa  
 
 Before, my heart was agitated,  
 Running after sensual pleasures.  

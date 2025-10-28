@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.61 Ujjaya  
+# 1.61 Ujjaya  
 
 I’ve understood all the aggregates,  
 Seen their origin and passing away.  

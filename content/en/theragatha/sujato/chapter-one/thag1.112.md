@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.112 Vacchagotta  
+# 1.112 Vacchagotta  
 
 I have the three knowledges, I’m a great meditator,  
 Skilled in serenity of mind.  

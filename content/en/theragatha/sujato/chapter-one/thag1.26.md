@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.26 Abhaya  
+# 1.26 Abhaya  
 
 If you want to do something,  
 Then work on it with all your might.  

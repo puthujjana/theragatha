@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.107 Dhammasava  
+# 1.107 Dhammasava  
 
 After investigating, I went forth  
 From the home life into homelessness.  

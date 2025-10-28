@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.27 Lomasakaṅgiya  
+# 1.27 Lomasakaṅgiya  
 
 When you’ve developed these things—  
 Mindfulness, investigation of principles,  

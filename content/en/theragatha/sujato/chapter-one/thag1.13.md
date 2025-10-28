@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.13 Vanavaccha  
+# 1.13 Vanavaccha  
 
 They look like blue-black storm clouds, glistening,  
 Cooled with the waters of clear-flowing streams,  

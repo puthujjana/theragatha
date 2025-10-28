@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.29 Sāmidatta  
+# 1.29 Sāmidatta  
 
 “Though you’ve gone forth, young man,  
 Your heart’s still stuck in the world.”  

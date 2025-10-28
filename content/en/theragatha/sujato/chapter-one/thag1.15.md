@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.15 Kuṇḍadhāna  
+# 1.15 Kuṇḍadhāna  
 
 Five should be cut off, five should be abandoned,  
 Five more should be developed.  

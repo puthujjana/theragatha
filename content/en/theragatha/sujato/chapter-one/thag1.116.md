@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.116 Pārāpariya  
+# 1.116 Pārāpariya  
 
 I’ve abandoned the six spheres of sense-contact,  
 My sense-doors are guarded and well restrained;  

@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.106 Suhemanta  
+# 1.106 Suhemanta  
 
 When the meaning has a hundred aspects,  
 And carries a hundred characteristics,  
