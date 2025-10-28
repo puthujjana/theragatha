@@ -12,7 +12,7 @@ weight: 1
 bookHidden: true
 ---
 
-## 1.4 Puṇṇa  
+# 1.4 Puṇṇa  
 
 You should only associate with the wise,  
 Those intent upon good, seeing the goal.  
