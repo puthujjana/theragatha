@@ -12,11 +12,12 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.35 Samiddhi  
+# 1.35 Sāmaññakāni
 
-I’ve overcome the powerful armies,  
-The five defilements in this body.  
-So I delight alone,  
-Having reached peace and seclusion.
+Whoever is seeking happiness  
+Will find it through this practice,  
+Get a good reputation, and grow in renown:  
+Develop the noble eightfold, straight, direct path  
+For the realisation of the deathless.  
 
 ## Notes

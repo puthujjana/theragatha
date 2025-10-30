@@ -12,11 +12,14 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.37 Sañjaya  
+# 1.37 Kumāputtasahāyaka
 
-It’s not proper for a monk  
-To strive for worldly gains.  
-The wise, seeking happiness,  
-Should purify their mind.
+Some travel to diﬀerent regions,  
+Wandering unrestrained.  
+If they lose their stillness,  
+What is the point  
+Of wandering around the countries?  
+So you should dispel pride,  
+practising jhāna without distraction.  
 
 ## Notes

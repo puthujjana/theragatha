@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.33 Soṇa  
+# 1.33 Sopāka
 
-Before, my heart was agitated,  
-Running after sensual pleasures.  
-But now I’ve tamed, stilled,  
-And fully quenched it.
+Just as a mother would be good  
+To her beloved and only son;  
+So, to creatures all and everywhere,  
+Let one be good.  
 
 ## Notes

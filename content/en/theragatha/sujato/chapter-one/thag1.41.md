@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.41 Sañjaya (2)  
+# 1.41 Sirivaḍḍha
 
-Seeing the aggregates as suffering,  
-Empty, not-self, and void,  
-I’ve given up all defilements,  
-And reached the peace of nibbāna.
+Lightning flashes down  
+On the cleft of Vebhāra and Paṇḍava.  
+But in the mountain cleft, the son of the inimitable  
+Is absorbed in jhāna, equanimous.  
 
 ## Notes

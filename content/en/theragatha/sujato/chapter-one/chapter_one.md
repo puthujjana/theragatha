@@ -177,6 +177,7 @@ Discussing the Teacher’s words.
 Truly wise and mindful,  
 They practice the teaching day and night.  
 
+<!-- 
 ## [1.26 Abhaya](../thag1.26/)
 If you want to do something,  
 Then work on it with all your might.  
@@ -774,3 +775,5 @@ The five aggregates are fully understood,
 They remain, but their root is severed.  
 I have realized the end of suffering,  
 And attained the end of defilements.  
+
+-->

@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.39 Samiddhi (2)  
+# 1.39 Tissa
 
-I went forth out of faith,  
-Mindful, seeking peace.  
-I found the Dhamma of liberation,  
-Leading to the stilling of suffering.
+As if struck by a sword,  
+As if their head was on fire,  
+A monk should go forth mindfully,  
+To abandon desire for sensual pleasures.  
 
 ## Notes

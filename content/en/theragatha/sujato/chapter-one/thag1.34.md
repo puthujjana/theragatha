@@ -12,11 +12,13 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.34 Rāmaṇeyyaka  
+# 1.34 Posiya
 
-You mustn’t go back to the old path  
-That leads to lowly states.  
-Don’t become a person  
-Who lusts after sense pleasures, lazy and slack.
+For one who understands  
+It’s always better not to mix with such women.  
+I went from the village to the wilderness;  
+From there I entered the house.  
+Though I was there to be fed,  
+I stood up and left without taking leave.  
 
 ## Notes

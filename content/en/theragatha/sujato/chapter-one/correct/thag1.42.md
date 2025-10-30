@@ -12,11 +12,10 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.42 Rāmaṇīyavihārī (2)  
+# 1.42 Khadiravaniya
 
-The wilderness is delightful,  
-Where ordinary people find no joy.  
-There the passionless will rejoice,  
-For they seek no sensual pleasures.
+Cāla, Upacāla and Sīsupacāla:  
+Be mindful!  
+I’ve come to you like a hair-splitter.  
 
 ## Notes

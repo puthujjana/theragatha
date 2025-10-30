@@ -12,11 +12,13 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.38 Rāmaṇīyavihārī  
+# 1.38 Gavampati
 
-The wilderness is delightful,  
-Where ordinary people find no joy.  
-There the passionless will rejoice,  
-For they seek no sensual pleasures.
+His psychic power  
+Made the river Sarabhu stand still;  
+Gavampati is unbound and unperturbed.  
+The gods bow to that great sage,  
+Who has left behind all attachments,  
+And gone beyond rebirth in any state of existence.  
 
 ## Notes

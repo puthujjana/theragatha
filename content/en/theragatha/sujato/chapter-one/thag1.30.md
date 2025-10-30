@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.30 Paripuṇṇa  
+# 1.30 Uttiya
 
-Whatever a person should do for their own good,  
-Let them do that with due care and effort.  
-For a monastic who’s lax,  
-Can never make much progress in Dhamma.
+When I was ill in the past,  
+I was mindful.  
+Now I am ill once more—  
+It’s time to be heedful.  
 
 ## Notes

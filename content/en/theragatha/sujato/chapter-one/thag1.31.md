@@ -12,12 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.31 Vijitasena  
+# 1.31 Gahvaratīriya
 
-One should look for a teacher,  
-Who is learned, intelligent, wise,  
-Practised in samādhi, and energetic;  
-Having learned from such a person,  
-One should live in line with the Dhamma.
+Bitten by ticks and mosquitoes  
+In the wilderness, the ancient forest;  
+One should endure mindfully,  
+Like an elephant at the head of the battle.  
 
 ## Notes

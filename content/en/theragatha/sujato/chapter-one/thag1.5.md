@@ -17,6 +17,6 @@ bookHidden: true
 Once hard to tame, now tamed themselves,  
 Worthy, content, crossed over doubt.  
 Victorious, with fears vanished,  
-Dabba is steadfast, and has realized nibbāna.
+Dabba is steadfast, and has realized *nibbāna*.  
 
 ## Notes

@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.49 Yasoja  
+# 1.49 Rāmaṇeyyaka
 
-The seers who have cut off craving,  
-Who have crossed the flood,  
-Who are freed in the ending of craving,  
-They’ve reached the far shore, the peaceful state.
+Even with all the sounds,  
+The sweet chirping and cheeping of birds,  
+My mind doesn’t tremble,  
+For I’m devoted to oneness.  
 
 ## Notes

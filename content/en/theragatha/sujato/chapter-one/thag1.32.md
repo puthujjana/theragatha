@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.32 Yasadatta  
+# 1.32 Suppiya
 
-Sensual pleasures are like swords and stakes;  
-The aggregates are like their chopping block.  
-What you call happiness here in the world  
-Is the exhaustion of foolish people.
+I’ll exchange old age for the un-ageing,  
+Burning for extinguishing:  
+The ultimate peace,  
+The unexcelled safety from the yoke.  
 
 ## Notes

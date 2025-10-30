@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.25 Nandaka  
+# 1.25 Nandiya
 
-They gather together,  
-Discussing the Teacher’s words.  
-Truly wise and mindful,  
-They practice the teaching day and night.
+Dark One, if you attack such a monk,  
+Whose mind is full of light,  
+And has arrived at the fruit,  
+You’ll fall into suﬀering.  
 
 ## Notes

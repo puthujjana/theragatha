@@ -12,11 +12,12 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.51 Paripuṇṇa  
+# 1.51 Godhika
 
-Whatever a person should do for their own good,  
-Let them do that with due care and effort.  
-For a monastic who’s lax,  
-Can never make much progress in Dhamma.
+The sky rains down, like a beautiful song,  
+My little hut is roofed and pleasant,  
+Sheltered from the wind.  
+My mind is serene in samādhi:  
+So rain, sky, as you please.  
 
 ## Notes

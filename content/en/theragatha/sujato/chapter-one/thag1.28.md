@@ -14,13 +14,9 @@ bookHidden: true
 
 # 1.28 Jambugāmika Tissa  
 
-“What is the one thing,” said the wanderer,  
-“That a mendicant must rightly explain?”  
-“The one thing,” said Tissa,  
-“Is suffering, which the Blessed One declared.”  
-“Well then, what is the path,” said the wanderer,  
-“For ending suffering and stress?”  
-“The noble eightfold path,” said Tissa,  
-“Is the path declared by the Blessed One.”
+Aren’t you obsessed with clothes?  
+Don’t you delight in jewellery?  
+Is it you—not anyone else—  
+Spreading the scent of virtue?  
 
 ## Notes

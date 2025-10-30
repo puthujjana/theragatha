@@ -12,13 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.29 Sāmidatta  
+# 1.29 Hārita
 
-“Though you’ve gone forth, young man,  
-Your heart’s still stuck in the world.”  
-“You speak truth, venerable sir,  
-And I admit it: that’s how it is for me.  
-But I’ll train to give up the world,  
-And not let the world get the better of me.”
+Straighten yourself,  
+Like a fletcher straightens an arrow.  
+When your mind is upright, Hārita,  
+Demolish ignorance!  
 
 ## Notes

@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.47 Samiddhi (4)  
+# 1.47 Ujjaya
 
-The Blessed One taught me the Dhamma,  
-For the abandoning of all attachments,  
-For the ending of craving,  
-For dispassion, cessation, and nibbāna.
+Homage to the Buddha, the hero,  
+Freed in every way.  
+Abiding in the fruits of your practice,  
+I live without defilements.  
 
 ## Notes

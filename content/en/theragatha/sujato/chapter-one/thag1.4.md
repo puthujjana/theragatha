@@ -17,7 +17,7 @@ bookHidden: true
 You should only associate with the wise,  
 Those intent upon good, seeing the goal.  
 Being wise, heedful, and discerning,  
-They realise the goal, so great, profound,  
+They realise the goal, so great profound,  
 Hard to see, subtle, and fine.
 
 ## Notes

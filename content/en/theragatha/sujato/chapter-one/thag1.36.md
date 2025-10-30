@@ -12,11 +12,12 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.36 Ujjaya  
+# 1.36 Kumāputta
 
-Beings flow along,  
-Like fish in a stream.  
-When touched by old age,  
-They leap up like fish in a drying pond.
+Learning is good, wandering is good,  
+Homeless life is always good.  
+Questions on the goal,  
+Actions that are skilful,  
+This is the ascetic life for one who has nothing.  
 
 ## Notes

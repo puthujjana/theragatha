@@ -12,11 +12,13 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.46 Rāmaṇīyavihārī (3)  
+# 1.46 Samiddhi
 
-The wilderness is delightful,  
-Where ordinary people find no joy.  
-There the passionless will rejoice,  
-For they seek no sensual pleasures.
+I went forth out of faith  
+From the home life into homelessness.  
+My mindfulness and wisdom have grown,  
+My mind is serene in samādhi.  
+Make whatever illusions you want,  
+It doesn’t bother me.  
 
 ## Notes

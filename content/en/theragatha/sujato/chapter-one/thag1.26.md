@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.26 Abhaya  
+# 1.26 Abhaya
 
-If you want to do something,  
-Then work on it with all your might.  
-A lax monastic life  
-Just leads to regret.
+Having heard the wonderful words  
+Of the Buddha, the Kinsman of the Sun,  
+I penetrated the subtle truth,  
+Like a hair-tip with an arrow.  
 
 ## Notes

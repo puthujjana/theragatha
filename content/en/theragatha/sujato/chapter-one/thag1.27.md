@@ -14,12 +14,8 @@ bookHidden: true
 
 # 1.27 Lomasakaṅgiya  
 
-When you’ve developed these things—  
-Mindfulness, investigation of principles,  
-Energy, rapture, tranquility,  
-Samādhi, and equanimity—  
-And understanding through insight  
-The Dhamma of higher wisdom,  
-You’ll end suffering and stress.
+With my chest I’ll thrust aside  
+The grasses, vines, and creepers,  
+And devote myself to seclusion.  
 
 ## Notes

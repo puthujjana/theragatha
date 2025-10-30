@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.48 Ujjaya (4)  
+# 1.48  Sañjaya
 
-Those who have destroyed the taints,  
-Who are poised and free from craving,  
-Whose faculties are peaceful,  
-Such ones are rightly called “Peaceful”.
+Since I’ve gone forth  
+From home life into homelessness,  
+I’m not aware of any intention  
+That is ignoble and hateful.  
 
 ## Notes

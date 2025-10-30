@@ -23,6 +23,9 @@ weight: 10
 - <a href="https://ia802909.us.archive.org/13/items/theragathaelderversesnormank.r.palitextsociety_173_I/Thera%20Gatha%20%28Elder%20Verses%29%20%20Norman%20K.R.%20Pali%20Text%20Society.pdf" target="_blank" rel="noopener noreferrer">K.R. Norman's Translation of the Theragāthā</a>
 - <a href="https://www.dhammatalks.org/Archive/Writings/Ebooks/TheragathaTherigatha210221.pdf" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology (PDF Edition)</a>
 - <a href="https://www.dhammatalks.org/suttas/KN/Thag/" target="_blank" rel="noopener noreferrer">Tan Ajaan Geoff's Anthology (Web Edition)</a>
+- <a href="https://suttafriends.org/theragatha/" target="_blank" rel="noopener noreferrer">Sutta Friends Translation of the Theragāthā</a>
+- <a href="https://suttafriends.org/therigatha/" target="_blank" rel="noopener noreferrer">Sutta Friends Translation of the Therīgāthā</a>
+
 
 ## Articles
 

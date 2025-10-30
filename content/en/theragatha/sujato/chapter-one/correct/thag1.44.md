@@ -12,11 +12,11 @@ weight: 1
 bookHidden: true
 ---
 
-# 1.44 Ujjaya (3)  
+# 1.44 Sānu
 
-Those who have destroyed the taints,  
-Who are poised and free from craving,  
-Whose faculties are peaceful,  
-Such ones are rightly called “Peaceful”.
+Mum, they cry for the dead,  
+Or for one who is alive but has disappeared.  
+I’m alive and you can see me,  
+So Mum, why do you weep for me?  
 
 ## Notes
