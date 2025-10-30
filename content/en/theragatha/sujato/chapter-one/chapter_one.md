@@ -177,7 +177,7 @@ Discussing the Teacher’s words.
 Truly wise and mindful,  
 They practice the teaching day and night.  
 
-<!-- 
+
 ## [1.26 Abhaya](../thag1.26/)
 If you want to do something,  
 Then work on it with all your might.  
@@ -346,6 +346,8 @@ Whatever a person should do for their own good,
 Let them do that with due care and effort.  
 For a monastic who’s lax,  
 Can never make much progress in Dhamma.  
+
+<!-- 
 
 ## [1.52 Vijitasena](../thag1.52/)
 One should look for a teacher,  
