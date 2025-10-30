@@ -170,6 +170,7 @@ I went forth after the rainy season—
 See the excellence of the Dhamma!  
 I’ve attained the three knowledges  
 And fulfilled the Buddha’s instructions.  
+<!-- 
 
 ## [1.25 Nandaka](../thag1.25/)
 They gather together,  
@@ -346,8 +347,6 @@ Whatever a person should do for their own good,
 Let them do that with due care and effort.  
 For a monastic who’s lax,  
 Can never make much progress in Dhamma.  
-
-<!-- 
 
 ## [1.52 Vijitasena](../thag1.52/)
 One should look for a teacher,  
